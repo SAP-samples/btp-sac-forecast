@@ -18,8 +18,7 @@ By the end of this scenario, you'll be able to:
 
 ## Business Scenario
 
-* This mission aims to guide Business Analysts without deep statistical knowledge through the steps to perform a risk analysis forecast for a food delivery service with several vendors, delivering food to the company's customers.
-
+* We will guide business analysts without deep statistical knowledge through the steps to perform a risk analysis forecast for a food delivery service that has several vendors delivering food to the company's customers.
 * When service delivery issues arise, such as late deliveries, or goods delivered in unacceptable conditions to customers, risk manager John calculates the risk cost for each vendor, using a risk management application built on SAP BTP.
 
 ## Solution Architecture
