@@ -37,7 +37,7 @@ Let's go over the steps required to build this scenario:
 
 5 - Citizen developers [designs interactive analytics dashboards and reports](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/create-story-sac) for himself or others, he can also explore data from SAP Hana cloud in real time with dynamic visualizations changing on-the-fly
 
-6 - Citizen developers seamlessly [integrate Analytical content dashboard in SAP Build Work Zone, standard edition](SAP Build Work Zone, standard edition) by calling SAC Story URL.
+6 - Citizen developers seamlessly [integrate Analytical content dashboard in SAP Build Work Zone, standard edition]([SAP Build Work Zone, standard edition](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/integrate-story-SBWZ)) by calling SAC Story URL.
 
 7 - A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
 
