@@ -27,9 +27,9 @@ By the end of this scenario, you'll be able to:
  
 Let's go over the steps required to build this scenario:
 
-1 - With system admin, we connect to the backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
+1 - With system admin, we connect to the backend [S/4HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare/s4hana-cloud-to-btp-connectivity) to fetch business partner data, or use a [mock-server](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server) application built on CAP.
 
-2 - Professional developer installs and customizes the risk management application using SAP Business Application Studio, by adding analytics artifact modules like calculation views.
+2 - Professional developer [installs and customizes the risk management application using SAP Business Application Studio](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/open-app-in-BAS) and adds [analytics artifact modules like calculation views](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/add-calc-view).
 
 3 - Professional developer will deploy the app to Cloud Foundry runtime.
 
@@ -47,9 +47,9 @@ Let's go over the steps required to build this scenario:
 
 | Step                                           | Dscription                                          |
 |------------------------------------------------|-----------------------------------------------------|
-| Step 1: [Prepare](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare)                                | Complete all the setup required to run the scenario |   
-| Step 2: Design and Deploy Integration Flow           | standard edition |
-| Step 3: Configure SAP ERP(ECC) System                | standard edition |
+| Step 1: [Prepare](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare)                                | Make sure prerequisites are fulfilled and all required systems are in place |   
+| Step 2: Set Up            | Configure your SAP BTP global account and services  |
+| Step 3: Develop your application                | standard edition |
 | Step 4: Configure SAP ERP(ECC) System                                 | hana             |
 | Step 5: Configure SAP ERP(ECC) System           | standard edition |
 | Step 6: Configure SAP ERP(ECC) System                            | lite             |
