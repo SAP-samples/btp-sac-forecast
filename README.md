@@ -5,9 +5,16 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-sac-forecast)](https://api.reuse.software/info/github.com/SAP-samples/btp-sac-forecast)
 -->
 
-## Description
-<!-- Please include SEO-friendly description -->
+## Purpose
 
+This scenario is primarily intended to demonstrate how to integrate BTP extension application with analytics capabilities like reports, interactive dashboards, and visuals.
+By the end of this scenario, you'll be able to:
+*	Customize an extension application on BTP using calculation views within SAP Business Application Studio.
+*	Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time without having to set up the SAP HANA Analytics Adapter.
+*	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
+*	Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
+
+![Scenario Overview](./images/scenario-overview.jpg)
 ## Requirements
 
 ## Download and Installation
