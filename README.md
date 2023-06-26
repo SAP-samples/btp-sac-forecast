@@ -31,13 +31,13 @@ Let's go over the steps required to build this scenario:
 
 2 - Professional developer [installs and customizes the risk management application using SAP Business Application Studio](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/open-app-in-BAS) and adds [analytics artifact modules like calculation views](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/add-calc-view).
 
-3 - Professional developer will deploy the app to Cloud Foundry runtime.
+3 - Professional developer will [deploy the app to Cloud Foundry runtime](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/deploy-application-cf).
 
-4 - With the help of SAP Analytics Cloud system owner, we will set up an SSO live connection to SAP HANA Cloud persistence.
+4 - With the help of SAP Analytics Cloud tenant admin, we will set up an [SSO live connection to SAP HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/create-live-conn) persistence.
 
-5 - Citizen developers designs interactive analytics dashboards and reports for himself or others, he can also explore data from SAP Hana cloud in real time with dynamic visualizations changing on-the-fly
+5 - Citizen developers [designs interactive analytics dashboards and reports](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/create-story-sac) for himself or others, he can also explore data from SAP Hana cloud in real time with dynamic visualizations changing on-the-fly
 
-6 - Citizen developers seamlessly integrate Analytical content dashboard in SAP Fiori launchpad by calling SAC Story URL.
+6 - Citizen developers seamlessly [integrate Analytical content dashboard in SAP Build Work Zone, standard edition](SAP Build Work Zone, standard edition) by calling SAC Story URL.
 
 7 - A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
 
