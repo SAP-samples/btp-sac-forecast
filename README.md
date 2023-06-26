@@ -27,7 +27,7 @@ By the end of this scenario, you'll be able to:
  
 Let's go over the steps required to build this scenario:
 
-1 - With system admin, we connect to the backend [S/4HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare/s4hana-cloud-to-btp-connectivity) to fetch business partner data, or use a [mock-server](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server) application built on CAP.
+1 - With help of system admin, we connect to the backend [S/4HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare/s4hana-cloud-to-btp-connectivity) to fetch business partner data, or use a [mock-server](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server) application built on CAP.
 
 2 - Professional developer [installs and customizes the risk management application using SAP Business Application Studio](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/open-app-in-BAS) and adds [analytics artifact modules like calculation views](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/add-calc-view).
 
