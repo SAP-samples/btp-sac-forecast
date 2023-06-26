@@ -41,6 +41,19 @@ Let's go over the steps required to build this scenario:
 
 7 - A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
 
+## Where to Start?
+
+* Follow the below steps for quick start or start the [SAP Discovery Center Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4265/4523/).
+
+| Step                                           | Dscription                                          |
+|------------------------------------------------|-----------------------------------------------------|
+| Step 1: [Prepare](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare)                                | Complete all the setup required to run the scenario |   
+| SAP Build Work zone standard edition           | standard edition |
+| SAP Business Application Studio                | standard edition |
+| SAP HANA Cloud                                 | hana             |
+| SAP Build Work zone standard edition           | standard edition |
+| Destination service                            | lite             |
+
 ## Known Issues
 No known issues.
 
