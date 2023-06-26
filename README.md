@@ -42,7 +42,7 @@ Let's go over the steps required to build this scenario:
 7 - A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
 
 ## Known Issues
-<!-- You may simply state "No known issues. -->
+No known issues.
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/btp-sac-forecast/issues) in this repository if you find a bug or have questions about the content.
