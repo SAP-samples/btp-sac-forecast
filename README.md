@@ -14,7 +14,7 @@ By the end of this scenario, you'll be able to:
 *	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
 *	Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
 
-![Scenario Overview](./images/scenario-overview.jpg)
+![Scenario Overview](scenario-overview.jpg)
 ## Requirements
 
 ## Download and Installation
