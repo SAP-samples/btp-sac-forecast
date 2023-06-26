@@ -1,0 +1,38 @@
+# Import Risk Management Application in SAP Business Application Studio
+
+In this section, you will open SAP Business Application Studio, create new development spaces, and import the Risk Management reference application so you customize it adding analytics artifacts:
+
+  ![solution-diagram-deploy-app](./images/solution-diagram-deploy-app.jpg)
+
+### 1. Create a Dev Space 
+
+1.  Open  the **SAP BTP cockpit**, navigate to your subaccount and choose **Servces** &rarr; **Instances and Subscriptions**. From the **Subscriptions** list, select **SAP Business Application Studio**.
+
+![BTP-cockpit-open-BAS](./images/BTP-cockpit-open-BAS.jpg)
+
+2. In the **Create a New Dev Space** field, enter a name of the dev space, for example **HanaSAC**.
+3. Select the **SAP HANA Native Application** radio button as an application type to support the creation of database artifacts like calculation views, tables, and more.
+
+![BAS-create-dev-space](./images/BAS-create-dev-space.jpg)
+
+4. After a moment, the state of the Dev Space created changed to **RUNNING** , Click on the **Dev Space name** to launch Business Application Studio. Choose **Create Dev Space**.
+
+![BAS-create-dev-space](./images/BAS-Access-dev-space.jpg)
+
+### 2.  Open the Dev Space and Import the Risk Management Application
+
+1. Make sure there is an open workspace in your Dev Space. If there is no open workspace, follow these steps:
+   1. Choose **Explorer**, and then choose **Open Folder**.
+   2. Choose **projects** from the list provided in the command palette and then choose **OK**.
+   
+![BAS-open-work-space](./images/BAS-Open-a-workspace.jpg)
+
+2. Import the files you have already downloaded. See [Risk Management Application GitHub repository](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use).
+
+![BAS-Import-zip-file](./images/BAS-Import-zip-file.jpg)
+
+### Result
+You have imported the Risk Management reference applications in SAP Business Application Studio.
+
+### Next Step
+You will customize the Risk Management application to add analytics artifacts.
