@@ -41,19 +41,6 @@ Let's go over the steps required to build this scenario:
 
 7 - A business user, in our case, a risk manager, can [access the SAP Build Work Zone, standard edition](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/integrate-story-SBWZ) service and open the risk management application along with analytics dashboard.
 
-## Where to Start?
-
-* Follow the below steps for quick start or start the [SAP Discovery Center Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4265/4523/).
-
-| Step                                           | Dscription                                          |
-|------------------------------------------------|-----------------------------------------------------|
-| Step 1: [Prepare](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare)                                | Make sure prerequisites are fulfilled and all required systems are in place |   
-| Step 2: Set Up            | Configure your SAP BTP global account and services  |
-| Step 3: Develop your application                | standard edition |
-| Step 4: Configure SAP ERP(ECC) System                                 | hana             |
-| Step 5: Configure SAP ERP(ECC) System           | standard edition |
-| Step 6: Configure SAP ERP(ECC) System                            | lite             |
-
 ## Known Issues
 No known issues.
 
