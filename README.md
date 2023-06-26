@@ -1,4 +1,4 @@
-# Simplify Business Decision with SAP BTP and SAP Analytics Cloud
+# Simplify Business Decisions with SAP BTP and SAP Analytics Cloud
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
