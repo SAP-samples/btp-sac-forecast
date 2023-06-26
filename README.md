@@ -48,11 +48,11 @@ Let's go over the steps required to build this scenario:
 | Step                                           | Dscription                                          |
 |------------------------------------------------|-----------------------------------------------------|
 | Step 1: [Prepare](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare)                                | Complete all the setup required to run the scenario |   
-| SAP Build Work zone standard edition           | standard edition |
-| SAP Business Application Studio                | standard edition |
-| SAP HANA Cloud                                 | hana             |
-| SAP Build Work zone standard edition           | standard edition |
-| Destination service                            | lite             |
+| Step 2: Design and Deploy Integration Flow           | standard edition |
+| Step 3: Configure SAP ERP(ECC) System                | standard edition |
+| Step 4: Configure SAP ERP(ECC) System                                 | hana             |
+| Step 5: Configure SAP ERP(ECC) System           | standard edition |
+| Step 6: Configure SAP ERP(ECC) System                            | lite             |
 
 ## Known Issues
 No known issues.
