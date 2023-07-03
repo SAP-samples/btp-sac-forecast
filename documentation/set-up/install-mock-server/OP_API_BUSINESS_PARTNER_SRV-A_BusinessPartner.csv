@@ -1,0 +1,5 @@
+BusinessPartner;BusinessPartnerName;BusinessPartnerIsBlocked;BusinessPartnerFullName;BusinessPartnerCategory
+1;Leonard Corp;false;Leonard Corp;Partner
+2;Logistic Corp;false;Logistic Corp;Partner
+3;Walldorf Corp;true;Walldorf Corp;Partner
+4;Food Corp;true;Food Corp;Partner
