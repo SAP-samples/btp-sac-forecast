@@ -17,8 +17,7 @@ To execute all the necessary steps of the tutorial, you will need the following 
 
 ### 3. Entitlements and Quotas
 
-* The application requires the following [Entitlements and Quotas](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/00aa2c23479d42568b18882b1ca90d79.html?locale=en-US) in the SAP BTP cockpit, You can find out which [BTP services offer Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are In the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
- :
+* The application requires the following [Entitlements and Quotas](https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/00aa2c23479d42568b18882b1ca90d79.html?locale=en-US) in the SAP BTP cockpit. :
 
 | Service                                        | Plan             |
 |------------------------------------------------|------------------|
@@ -29,8 +28,8 @@ To execute all the necessary steps of the tutorial, you will need the following 
 | SAP Build Work zone standard edition           | standard edition |
 | Destination service                            | lite             |
 
-
-
+* You can find out which [BTP services offer Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are In the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
+  
 ### 4. The SAP Risk Management Reference Application
 
 1. [Optional] - Complete the tutorial on [How to develop and deploy an application based on SAP Cloud Application Programming Model CAP](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use). We will customize rik management application to add analytics articacts later in our scenario. 
