@@ -31,7 +31,7 @@ In this section, you will :
 
 ### 2. Assign Role Collection
 
-Before you can use the application, the following roles need to be assigned to developers and business users, so they are able to edit and view the data from the application.
+As a developper, before you can use the application, the following roles need to be assigned to developers and business users, so they are able to edit and view the data from the application.
 
 1. Go back to the SAP BTP cockpit.
 2. Navigate to **Security** &rarr; **Users**.
