@@ -1,4 +1,4 @@
-# Create Calculation View in SAP HANA Cloud
+# Create Calculation Views in SAP HANA Cloud
 
 In this section, you will learn how to create a Calculation view in SAP HANA Cloud. The Calculation view is then consumed in SAP Analytics Cloud using Live Data Connection to create a story for detailed data analysis.
 
