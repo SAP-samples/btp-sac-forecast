@@ -33,7 +33,7 @@ In this step, the risks table will be enhanced with a new field called **partner
 
  ![BAS-package-json](./images/BAS-package-json.jpg)
 
-2. Replace the content of the file located in the **../mta.yaml** with **[mta.yaml](./mta.yaml)** folder, where we have disabled the connectivity to the SAP S/4HANA Cloud Extensibility service with technical name **s4-hana-cloud** and service plan **api-access**  to use the [mock-server](https://github.tools.sap/D055164/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server).
+2. Replace the content of the file located in the **../mta.yaml** with **[mta.yaml](./mta.yaml)** file, where we have disabled the connectivity to the SAP S/4HANA Cloud Extensibility service with technical name **s4-hana-cloud** and service plan **api-access**  in order to use the [mock-server](https://github.tools.sap/D055164/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server).
 
  ![BAS-mta-yaml.jpg](./images/BAS-mta-yaml.jpg)
  
