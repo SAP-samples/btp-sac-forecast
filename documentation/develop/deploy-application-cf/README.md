@@ -22,7 +22,7 @@ In this section, you will :
 ![BAS-CF-Sign-In-and-target](./images/BAS-CF-Sign-In-and-target.jpg)
 
 4. Build the MTA module from the root folder of your project.
-5. Deploy the module to your current Cloud Foundry space. The deployment might take some minutes.
+5. Deploy the module to your current Cloud Foundry space via context menu of the build archive. The deployment might take some minutes.
 6. Check if all applications and services have been created.
 
 ![BTP-Cockpit-application-overview](./images/BTP-Cockpit-application-overview.jpg)
@@ -31,7 +31,7 @@ In this section, you will :
 
 ### 2. Assign Role Collection
 
-Before you can use the application, you need to assign yourself to the following application roles, so you are able to edit and view the data from the application.
+Before you can use the application, the following roles need to be assigned to developers and business users, so they are able to edit and view the data from the application.
 
 1. Go back to the SAP BTP cockpit.
 2. Navigate to **Security** &rarr; **Users**.
