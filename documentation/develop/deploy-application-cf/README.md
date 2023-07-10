@@ -3,7 +3,7 @@
 In this section, you will : 
 
  1. Deploy the Risk Management Application to the Cloud Foundry Environment
- 2. Assign Role Collections to the end users.
+ 2. Assign Role Collections to Developers and Business users.
 
 ![solution-diagram-deploy-app](./images/solution-diagram-deploy-app.jpg)
 
