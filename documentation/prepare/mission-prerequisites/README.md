@@ -28,7 +28,7 @@ To execute all the necessary steps of the tutorial, you will need the following 
 | SAP Build Work zone standard edition           | standard edition |
 | Destination service                            | lite             |
 
-* You can find out which [BTP services offer Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are In the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
+* You can find out which BTP services [Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are in the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
   
 ### 4. The SAP Risk Management Reference Application
 
