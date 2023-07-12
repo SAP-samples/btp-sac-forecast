@@ -1,8 +1,10 @@
 # Simplify Business Decisions with SAP BTP and SAP Analytics Cloud
 <!-- Please include descriptive title -->
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-sac-forecast)](https://api.reuse.software/info/github.com/SAP-samples/btp-sac-forecast)
+
 -->
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-sac-forecast)](https://api.reuse.software/info/github.com/SAP-samples/btp-sac-forecast)
 
 ## Purpose
 
