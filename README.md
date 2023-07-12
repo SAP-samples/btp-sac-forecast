@@ -22,7 +22,7 @@ By the end of this scenario, you'll be able to:
 
 ## Solution Architecture
 
- ![Solution Architecture](solution-architecture2.jpg)
+ ![Solution Architecture](solution-architecture.jpg)
 
 Let's go over the steps required to build this scenario:
 
