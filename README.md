@@ -24,6 +24,22 @@ By the end of this scenario, you'll be able to:
 ## Solution Architecture
 
  ![Solution Architecture](solution-architecture.jpg)
+
+Let's go over the steps required to build this scenario:
+
+1 - With help of system admin, You connect to the backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
+
+2 - Professional developer installs and customizes the risk management application using SAP Business Application Studio and adds analytics artifact modules like calculation views.
+
+3 - Professional developer will deploy the app to Cloud Foundry runtime.
+
+4 - With the help of SAP Analytics Cloud tenant admin, we will set up an SSO live connection to SAP HANA Cloud persistence.
+
+5 - Citizen developers designs interactive analytics dashboards and reports for himself or others, he can also explore data from SAP Hana cloud in real time with Live Data Connection.
+
+6 - Citizen developers seamlessly integrate Analytical content dashboard in SAP Build Work Zone, standard edition by calling SAC Story URL.
+
+7 - A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
  
 
 ## Where to Start?
