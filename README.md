@@ -32,12 +32,12 @@ Follow the below steps for quick start or start the SAP Discovery Center Mission
 
   | Step                                           | Description      |
   |------------------------------------------------|------------------|
-  | Step 1: Prepare                                | Make sure prerequisites are fulfilled and all required systems are in place|   
-  | Step 2: Set Up                                 | Set up and configure SAP systems and services |
-  | Step 3: Customize                              | Add custom logic to Risk Management application |
-  | Step 4: Set up  a Live Data Connection         | Set up a Live Data Connection between SAP HANA Cloud and SAP Analytics Cloud|
-  | Step 5: Develop visual reports                 | Create Bar and Times Series charts reports in SAP Analytics|
-  | Step 6: Integrate                              | Integrate Analytical reports in SAP Build Work Zone, standard edition|            
+  | Step 1: [Prepare](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/prepare)                                | Make sure prerequisites are fulfilled and all required systems are in place|   
+  | Step 2: [Set Up](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/set-up)                                 | Set up and configure SAP systems and services |
+  | Step 3: [Customize application](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/develop/open-app-in-BAS)                             | Add custom logic to Risk Management application |
+  | Step 4: [Set up  a Live Data Connection](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/develop/create-live-conn)         | Set up a Live Data Connection between SAP HANA Cloud and SAP Analytics Cloud|
+  | Step 5: [Develop visual reports](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/develop/create-story-sac)                 | Create Bar and Times Series charts reports in SAP Analytics|
+  | Step 6: [Integrate reports](https://github.com/SAP-samples/btp-sac-forecast/tree/main/documentation/develop/integrate-story-SBWZ)                             | Integrate analytical reports in SAP Build Work Zone, standard edition|            
 
 ## Known Issues
 No known issues.
