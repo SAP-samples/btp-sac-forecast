@@ -28,21 +28,16 @@ By the end of this scenario, you'll be able to:
 
 ## Where to Start?
 
-Let's go over the steps required to build this scenario:
+Follow the below steps for quick start or start the SAP Discovery Center Mission.
 
-1 - With help of system admin, we connect to the backend [S/4HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/prepare/s4hana-cloud-to-btp-connectivity) to fetch business partner data, or use a [mock-server](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/set-up/install-mock-server) application built on CAP.
-
-2 - Professional developer [installs and customizes the risk management application using SAP Business Application Studio](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/open-app-in-BAS) and adds [analytics artifact modules like calculation views](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/add-calc-view).
-
-3 - Professional developer will [deploy the app to Cloud Foundry runtime](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/deploy-application-cf).
-
-4 - With the help of SAP Analytics Cloud tenant admin, we will set up an [SSO live connection to SAP HANA Cloud](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/create-live-conn) persistence.
-
-5 - Citizen developers [designs interactive analytics dashboards and reports](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/create-story-sac) for himself or others, he can also explore data from SAP Hana cloud in real time with dynamic visualizations changing on-the-fly
-
-6 - Citizen developers seamlessly [integrate Analytical content dashboard in SAP Build Work Zone, standard edition](./documentation/develop/integrate-story-SBWZ) by calling SAC Story URL.
-
-7 - A business user, in our case, a risk manager, can [access the SAP Build Work Zone, standard edition](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/integrate-story-SBWZ) service and open the risk management application along with analytics dashboard.
+  | Step                                           | Description      |
+  |------------------------------------------------|------------------|
+  | Step 1: Prepare                                | Make sure prerequisites are fulfilled and all required systems are in place|   
+  | Step 2: Set Up                                 | Set up and configure SAP systems and services |
+  | Step 3: Customize                              | Add custom logic to Risk Management application |
+  | Step 4: Set up  a Live Data Connection         | Set up a Live Data Connection between SAP HANA Cloud and SAP Analytics Cloud|
+  | Step 5: Develop visual reports                 | Create Bar and Times Series charts reports in SAP Analytics|
+  | Step 6: Integrate                              | Integrate Analytical reports in SAP Build Work Zone, standard edition|            
 
 ## Known Issues
 No known issues.
