@@ -28,7 +28,7 @@ By the end of this scenario, you'll be able to:
 
 ## Where to Start?
 
-Follow the below steps for quick start or start the SAP Discovery Center Mission.
+Follow the below steps for quick start or start the [SAP Discovery Center Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4265/4523/).
 
   | Step                                           | Description      |
   |------------------------------------------------|------------------|
