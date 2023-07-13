@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This scenario is primarily intended to demonstrate how to integrate BTP extension application with analytics capabilities like reports, interactive dashboards, and visuals.
+This tutorial will show you how to enhance a BTP application by adding analytical features such as reports, interactive dashboards and visualizations using SAP Analytics Cloud.
 
 By the end of this scenario, you'll be able to:
 *	Customize an extension application on BTP using calculation views within SAP Business Application Studio.
