@@ -8,7 +8,7 @@
 
 This tutorial will show you how to enhance a BTP application by adding analytical features such as reports, interactive dashboards and visualizations using SAP Analytics Cloud.
 
-By the end of this scenario, you'll be able to:
+Once you've completed the tutorial, you'll be able to:
 *	Customize an extension application on BTP using calculation views within SAP Business Application Studio.
 *	Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time without having to set up the SAP HANA Analytics Adapter.
 *	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
