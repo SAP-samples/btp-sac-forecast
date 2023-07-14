@@ -11,16 +11,16 @@
      
 * [PREPARE](../documentation/prepare)
     
-   1. [Make sure prerequisites are fulfilled and all required systems are in place](../documentation/prepare/mission-prerequisites)
-   2. [(Optional) Onboard SAP S/4HANA Cloud system](./prepare/s4hc-onboarding)
-   3. [(Optional) Configure communication settings in SAP S/4HANA Cloud](./prepare/s4hana-cloud-to-btp-connectivity)
+    1. [Make sure prerequisites are fulfilled and all required systems are in place](../documentation/prepare/mission-prerequisites)
+    2. [(Optional) Onboard SAP S/4HANA Cloud system](./prepare/s4hc-onboarding)
+    3. [(Optional) Configure communication settings in SAP S/4HANA Cloud](./prepare/s4hana-cloud-to-btp-connectivity)
 
 * [SET UP](../documentation/set-up)
 
-   1. [Configure your global account and subaccount in SAP BTP](./set-up/configure-account)
-   2. [Set Up SAP Business Application Studio](./set-up/BAS)
-   3. [Set Up SAP Build Work Zone, standard edition](./set-up/WZSE)
-   4. [Install Mock Server](./set-up/install-mock-server/)
+    1. [Configure your global account and subaccount in SAP BTP](./set-up/configure-account)
+    2. [Set Up SAP Business Application Studio](./set-up/BAS)
+    3. [Set Up SAP Build Work Zone, standard edition](./set-up/WZSE)
+    4. [Install Mock Server](./set-up/install-mock-server/)
    
 * [DEVELOP](../documentation/develop)
 
