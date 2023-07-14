@@ -28,7 +28,7 @@ using a risk management application built on SAP BTP.
 
 Let's go over the steps required to build this scenario:
 
-1 - With help of system admin, You connect to the backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
+1 - With help of system admin, You connect to the backend SAP S/4HANA Cloud to fetch business partner data. If you have no SAP S/4HANA Cloud you can use mock-server CAP application.
 
 2 - Professional developer installs and customizes the risk management application using SAP Business Application Studio and adds analytics artifact modules like calculation views.
 
