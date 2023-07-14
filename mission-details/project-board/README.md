@@ -2,7 +2,7 @@
 
 <!-- disco-toc-start -->
 - DISCOVER
-    1. [Learn how to use missions and project boards in SAP Discovery Center](../../discover/how-to-use-missions)
+    1. [Learn how to use missions and project boards in SAP Discovery Center](../../documentation/discover/how-to-use-missions)
     1. [Learn about the goal and outcome of the mission](../../discover/goal-and-outcome-of-mission)
     1. [Learn the basics of SAP BTP](../../discover/sap-btp-basics)
     1. [Learn about Calculation Views in SAP HANA Cloud](../../discover/sap-hana-cloud)
