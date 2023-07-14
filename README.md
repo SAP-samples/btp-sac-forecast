@@ -10,9 +10,9 @@ This tutorial will show you how to enhance a BTP application by adding analytica
 
 Once you've completed the tutorial, you'll be able to:
 *	Customize an extension application on BTP using calculation views within SAP Business Application Studio.
-*	Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time without having to set up the SAP HANA Analytics Adapter.
+*	Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time.
 *	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
-*	Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
+*	Get access to your application and analytics from one central entry point with SAP Build Work Zone, standard edition..
 
 ![Scenario Overview](scenario-overview.jpg)
 
