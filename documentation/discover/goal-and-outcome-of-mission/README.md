@@ -1,6 +1,6 @@
 # Learn About the Goal and Outcome of the Mission
 
-This tutorial will show you how to enhance a BTP application by adding analytical features such as reports, interactive dashboards and visualizations using SAP Analytics Cloud.
+This mission shows you how to enhance a BTP application by adding analytical features such as reports, interactive dashboards and visualizations using SAP Analytics Cloud.
 
 Once you've completed the tutorial, you'll be able to:
 *	Customize an extension application on BTP using calculation views within SAP Business Application Studio.
