@@ -8,7 +8,7 @@ Once you've completed the tutorial, you'll be able to:
 *	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
 *	Get access to your application and analytics from one central entry point with SAP Build Work Zone, standard edition..
 
-![Scenario Overview](.\scenario-overview.jpg)
+![Scenario Overview](scenario-overview.jpg)
 
 ## Business Scenario
 
@@ -18,7 +18,7 @@ using a risk management application built on SAP BTP.
 
 ## Solution Architecture
 
- ![Solution Architecture](.\solution-architecture.jpg)
+ ![Solution Architecture](solution-architecture.jpg)
 
 Let's go over the steps required to build this scenario:
 
