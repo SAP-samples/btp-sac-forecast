@@ -46,7 +46,7 @@ Let's go over the steps required to build this scenario:
 ## Where to Start?
 
 * Follow the below steps for quick start or start the SAP Discovery Center Mission [Empower Data-Driven Decisions Through Analytics Forecasting
-](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4265/4523/).
+](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/4265/4523/) :
 
   | Step                                           | Description      |
   |------------------------------------------------|------------------|
