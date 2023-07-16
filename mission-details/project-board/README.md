@@ -9,7 +9,7 @@
     - [Learn about SAP S/4HANA Cloud](../../documentation/discover/sap-s4h)
     - [Learn how to design Story with SAP Analytics Cloud](../../documentation/discover/sap-analytics-cloud)         
 - PREPARE
-    - [Make sure prerequisites are fulfilled and all required systems are in place](../../documentation/documentation/prepare/mission-prerequisites)
+    - [Make sure prerequisites are fulfilled and all required systems are in place](../../documentation/prepare/mission-prerequisites)
     - [(Optional) Onboard SAP S/4HANA Cloud system](../../documentation/prepare/s4hc-onboarding)
     - [(Optional) Configure communication settings in SAP S/4HANA Cloud](../../documentation/prepare/s4hana-cloud-to-btp-connectivity)
 - SET UP
