@@ -26,7 +26,7 @@ To execute all the necessary steps of the tutorial, you will need the following 
 
 * You can find out which BTP services [Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are in the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
   
-### 4. The SAP Risk Management Reference Application
+## 3. The SAP Risk Management Reference Application
 
 1. [Optional] - Complete the tutorial on [How to develop and deploy an application based on SAP Cloud Application Programming Model CAP](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use). We will customize rik management application to add analytics articacts later in our scenario. 
 
@@ -34,7 +34,7 @@ To execute all the necessary steps of the tutorial, you will need the following 
 
 ![risk-management-app](./GitHub-Download-risk-management-app.jpg)
 
-### 5. Mock Server :
+## 5. Mock Server :
 1. This step is only needed when you decide to use [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock) as a backend instead of [SAP S/4HANA Cloud](https://www.sap.com/products/erp/s4hana-erp.html).
 2. For OData API’s (e.g. from S/4HANA, ECC etc.),  [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock) will be used to speed up scenario implementation without ERP/Cloud Connector configuration, and limit the scope of troubleshooting for BTP cloud services only.
 3. Download mock-server application zip file from repository: [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock)
