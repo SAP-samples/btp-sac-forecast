@@ -10,8 +10,8 @@
     - [Learn how to design Story with SAP Analytics Cloud](../../documentation/discover/sap-analytics-cloud)         
 - PREPARE
     - [Make sure prerequisites are fulfilled and all required systems are in place](../../documentation/prepare/mission-prerequisites)
-    - [(Optional) Onboard SAP S/4HANA Cloud system](../../documentation/prepare/s4hc-onboarding)
-    - [(Optional) Configure communication settings in SAP S/4HANA Cloud](../../documentation/prepare/s4hana-cloud-to-btp-connectivity)
+    - [Onboard SAP S/4HANA Cloud system](../../documentation/prepare/s4hc-onboarding)
+    - [Configure communication settings in SAP S/4HANA Cloud](../../documentation/prepare/s4hana-cloud-to-btp-connectivity)
 - SET UP
     - [Configure your global account and subaccount in SAP BTP](../../documentation/set-up/configure-account)
     - [Set Up SAP Business Application Studio](../../documentation/set-up/BAS)
