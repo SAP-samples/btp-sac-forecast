@@ -12,8 +12,8 @@
 * [PREPARE](../documentation/prepare)
     
     1. [Make sure prerequisites are fulfilled and all required systems are in place](../documentation/prepare/mission-prerequisites)
-    2. [Onboard SAP S/4HANA Cloud system](./prepare/s4hc-onboarding)
-    3. [Configure communication settings in SAP S/4HANA Cloud](./prepare/s4hana-cloud-to-btp-connectivity)
+    2. [(Optional) Onboard SAP S/4HANA Cloud system](./prepare/s4hc-onboarding)
+    3. [(Optional) Configure communication settings in SAP S/4HANA Cloud](./prepare/s4hana-cloud-to-btp-connectivity)
 
 * [SET UP](../documentation/set-up)
 
