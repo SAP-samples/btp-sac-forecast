@@ -8,8 +8,11 @@ Once you've completed the tutorial, you'll be able to:
 *	Use SAP Analytics Cloud as One Stop tool to build dashboards and stories, analyze and forecast business data.
 *	Get access to your application and analytics from one central entry point with SAP Build Work Zone, standard edition..
 
+* Text
+
 ![Scenario Overview](scenario-overview.jpg)
 
+* Text 
 ## Business Scenario
 
 * Business analysts without deep statistical knowledge are guidede through the steps to perform a risk analysis forecast for a food delivery service that has several vendors delivering food to the company's customers.
