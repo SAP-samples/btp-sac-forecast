@@ -34,7 +34,7 @@ To execute all the necessary steps of the tutorial, you will need the following 
 
 ![risk-management-app](./GitHub-Download-risk-management-app.jpg)
 
-## 5. Mock Server :
+## 4. Mock Server :
 1. This step is only needed when you decide to use [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock) as a backend instead of [SAP S/4HANA Cloud](https://www.sap.com/products/erp/s4hana-erp.html).
 2. For OData API’s (e.g. from S/4HANA, ECC etc.),  [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock) will be used to speed up scenario implementation without ERP/Cloud Connector configuration, and limit the scope of troubleshooting for BTP cloud services only.
 3. Download mock-server application zip file from repository: [mock-server](https://github.com/SAP-samples/cloud-extension-ecc-business-process/tree/mock)
