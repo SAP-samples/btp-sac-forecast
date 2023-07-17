@@ -1,7 +1,7 @@
 # Learn How to Design Story with SAP Analytics Cloud
 
 1. Data modeling are the foundation for data exploration and data visualizations in your stories, you prepare your model on top of the raw data :
-   * [Find more learning resources on data modeling](https://community.sap.com/topics/cloud-analytics/modeling)
+   * [Data Modeling and Wrangling](https://community.sap.com/topics/cloud-analytics/modeling)
    * Video playlist: [How to Create Data model with Live Data Connections](https://www.youtube.com/watch?v=VViYrORQPgA)
 
 2. A story is the presentation layer on top of the model and data and can be designed as a dashboard or a report. 
