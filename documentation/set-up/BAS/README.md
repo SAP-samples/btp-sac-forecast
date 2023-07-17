@@ -19,7 +19,7 @@ To accelerate development process, we will use [SAP Business Application Studio]
   ![subscription-list-BAS](./images/BTPCockpit-BAS-subscription-list.jpg)
 
   ## 2. Assign SAP Business Application Studio Role Collection
-
+  
   **_NOTE:_** You need to assign your user to the Business_Application_Studio_Developer role collection, so you don’t get an error accessing the SAP Business Application Studio application from the cockpit later on.
   
  1. Choose **Security** &rarr; **Users** and then choose your user.
