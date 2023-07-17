@@ -1,9 +1,10 @@
 # Set Up SAP Build Work Zone, standard edition
 
 [SAP Build Work Zone](
-https://learning.sap.com/learning-journey/implement-and-administer-sap-build-work-zone), Standard Edition is a digital workplace solution that offers centralized access to business applications, content, and processes. It enables personalization, collaboration, and seamless integration with both SAP and non-SAP applications. 
+https://learning.sap.com/learning-journey/implement-and-administer-sap-build-work-zone), Standard Edition is a digital workplace solution that offers centralized access to business applications, content, and processes. It enables personalization, collaboration, and seamless integration with both SAP and non-SAP applications.
 
-  ## 1. Subscribe to SAP Build Work Zone, standard edition
+## 1. Subscribe to SAP Build Work Zone, standard edition
+
   1. Open SAP BTP cockpit and go to your global account.
   2. Choose **Account Explorer** and then **Services** &rarr; **Service Marketplace**.
   3. Search for the **SAP Build Work Zone, standard edition** tile and choose **Create**. If this tile doesn’t exist in the list, go to **Entitlements** and choose **Add Service Plans**.
