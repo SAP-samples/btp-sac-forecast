@@ -5,7 +5,7 @@
    * Video playlist: [How to Create Data model with Live Data Connections](https://www.youtube.com/watch?v=VViYrORQPgA)
 
 2. A story is the presentation layer on top of the model and data and can be designed as a dashboard or a report. 
-   * SAP Community : [Find more learning resources on stories and data visualization](https://community.sap.com/topics/cloud-analytics/stories-reporting-exploration#stories)
+   * SAP Community : [Stories](https://community.sap.com/topics/cloud-analytics/stories-reporting-exploration#stories)
 3. SAP Tutorial Mission : 
 
     * [Get Started with this SAP Analytics Cloud](https://developers.sap.com/mission.get-started-sac.html)
