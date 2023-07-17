@@ -2,7 +2,7 @@
 # Set Up SAP Business Application Studio
 
 To accelerate development process, we will use [SAP Business Application Studio](https://learning.sap.com/learning-journey/develop-full-stack-applications-using-productivity-tools-in-sap-business-application-studio) as a cloud-based development environment, where professional developers can quickly create and customize applications by leveraging reusable components, preconfigured templates, and wizards, reducing development time and effort.
-
+  ## 2. Assign SAP Business Application Studio Role Collection
   ### 1. Subscribe to SAP Business Application Studio
   1. Open SAP BTP cockpit and go to your global account.
   2. Choose **Account Explorer** and then **Services** &rarr; **Service Marketplace**.
