@@ -10,4 +10,4 @@
 
 3. SAP Community :
 
-   * [SAP Hana Community topic page](https://community.sap.com/topics/hana) for more details)
+   * [SAP Hana Community topic page](https://community.sap.com/topics/hana)
