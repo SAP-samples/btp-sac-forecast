@@ -3,7 +3,7 @@
 <!-- disco-toc-start -->
 - DISCOVER
     - [Learn how to use missions and project boards in SAP Discovery Center](../../documentation/discover/how-to-use-missions) 
-    - [Learn about the goal and outcome of the mission](../../documentation/discover/goal-and-outcome-of-mission)<!-- {"label" : ["OPTIONAL"],""cardName":"Learn about the goal and outcome of the mission"} -->
+    - [Learn about the goal and outcome of the mission](../../documentation/discover/goal-and-outcome-of-mission) <!-- {"label": ["OPTIONAL"],"cardName":"Learn about the goal and outcome of the mission"} -->
     - [Learn the basics of SAP BTP](../../documentation/discover/sap-btp-basics)
     - [Learn about Calculation Views in SAP HANA Cloud](../../documentation/discover/sap-hana-cloud)
     - [Learn about SAP S/4HANA Cloud](../../documentation/discover/sap-s4h)
