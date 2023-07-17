@@ -3,7 +3,7 @@
 [SAP Build Work Zone](
 https://learning.sap.com/learning-journey/implement-and-administer-sap-build-work-zone), Standard Edition is a digital workplace solution that offers centralized access to business applications, content, and processes. It enables personalization, collaboration, and seamless integration with both SAP and non-SAP applications.
 
-  ## 1. Subscribe to SAP Build Work Zone, standard edition
+## 1. Subscribe to SAP Build Work Zone, standard edition
 
   1. Open SAP BTP cockpit and go to your global account.
   2. Choose **Account Explorer** and then **Services** &rarr; **Service Marketplace**.
@@ -19,7 +19,7 @@ https://learning.sap.com/learning-journey/implement-and-administer-sap-build-wor
   
   ![Instance-SBWZ](./images/BTPCockpit-Instance-SBWZ.jpg)
 
-  ## 2. Assign SAP Build Work Zone, standard edition Role Collection
+## 2. Assign SAP Build Work Zone, standard edition Role Collection
 
   You need to assign your user to the **Launchpad_Admin** role collection, so you don’t get an error accessing the SAP Build Work Zone, standard edition site later on.
 
