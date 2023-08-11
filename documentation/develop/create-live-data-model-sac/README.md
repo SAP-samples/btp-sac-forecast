@@ -2,7 +2,7 @@
 
 In this section, you will learn how to create a Live Data Model in SAP Analytics Cloud. The created Live Data Model is later consumed in a story as a data source for detailed data analysis.
 
-![solution-diagram-create-live-data-model-sac.jpg](./images/solution-diagram-create-live-data-model-sac.jpg)
+![solution-diagram-create-live-data-model-sac.jpg](./images/solution-diagram-create-story-sac.jpg)
 
 1. To create a Live Data Model, navigate to the **Modeler** section in SAP Analytics Cloud. Choose **Modeler**.
 2. In the **Models** tab, choose **Live Data Model**.
