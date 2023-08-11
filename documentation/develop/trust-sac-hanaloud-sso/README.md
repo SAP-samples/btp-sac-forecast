@@ -66,8 +66,6 @@ For the steps in the SAP HANA Cloud system, the Administrator role is required o
 
 ![HANA-DB-cockpit-list-certificate-collection](./images/HANA-DB-cockpit-list-certificate-collection.jpg)
 
-9. Go back to **SAP Analytics Cloud**, and finish creating the connection by choosing **OK** in the **Connection** dialog.
-
 ## 5. Map SAP Analytics Cloud User to SAP HANA Cloud User
 
 1. Open the **SAP HANA Cloud cockpit**. You need to create a user, or you can modify an existing one, and provide the proper role.
@@ -92,6 +90,7 @@ For the steps in the SAP HANA Cloud system, the Administrator role is required o
 1. Grant your user the required access to the data that you want to expose from your SAP HANA Cloud database. In this case, grant the access role to an HDI container where we have created a Calculation view of type CUBE. 
 2. Go to **Role Assignment** and choose **Add**.
 3. Choose the **access_role and external_privileges_role** for the HDI container.
+4. Go back to **SAP Analytics Cloud**, and finish creating the connection by choosing **OK** in the **Connection** dialog.
 
 ![HANA-DB-cockpit-add-hdi-access-role.jpg](./images/HANA-DB-cockpit-add-hdi-access-role.jpg)
 
