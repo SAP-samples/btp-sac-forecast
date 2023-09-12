@@ -24,7 +24,6 @@
 
 6. Webinars: Take it to the next level and learn more from these on-demand webinars:
     * [Take Your Stories to New Heights with SAP Analytics Cloud](https://event.on24.com/wcc/r/2155535/EFF506BCA7FE0AFE39DDCA2F7D80625B)
-    * [Story Design with Responsive, Canvas, Themes and Styling](https://event.on24.com/wcc/r/2155535/EFF506BCA7FE0AFE39DDCA2F7D80625B)
     
 
   
