@@ -52,7 +52,7 @@ SAP_UI_RISKMANAGEMENT_RISKS
 
 ### 2. Add a Calculation View
 
-Upload the **[view-RM.hdbview](./calcview-RM.hdbcalculationview)** file in the **./cloud-cap-risk-management-ext-service-s4hc-use/db/src** folder or follow the steps to create a Calculation View in the SAP HANA database:
+Upload the **[calcview-RM.hdbcalculationview](./calcview-RM.hdbcalculationview)** file in the **./cloud-cap-risk-management-ext-service-s4hc-use/db/src** folder or follow the steps to create a Calculation View in the SAP HANA database:
 
 1. Open the **command palette** and choose **SAP HANA: Create SAP HANA Database Artifact**.
 2. Choose **Browse for Folder**, select the **../projects/cloud-cap-risk-management-launchpad-service/db/src** folder, and choose **Open**.
@@ -78,13 +78,15 @@ Upload the **[view-RM.hdbview](./calcview-RM.hdbcalculationview)** file in the *
 
 ![BAS-calcultation-view-aggregation-mapping](./images/BAS-calcultation-view-aggregation-mapping.jpg)
 
-11. Choose **Semantics**, then **Columns**, and select the **CRITICALITY** checkbox.
+11. Choose Aggregation, then double click on Projection_1 below the Data sources
+
+12. Choose **Semantics**, then **Columns**, and select the **CRITICALITY** checkbox.
 
 ![BAS-calcultation-view-semantic-columns-criticality](./images/BAS-calcultation-view-semantic-columns-criticality.jpg)
 
-12. Deploy the Calculation View. On the SAP HANA Project panel next to the Calculation View name or on the top right corner of the screen, choose ![icon-deploy](./images/icon-deploy.png).
+13. Deploy the Calculation View. On the SAP HANA Project panel next to the Calculation View name or on the top right corner of the screen, choose ![icon-deploy](./images/icon-deploy.png).
 
-13. Preview the results of your Calculation View directly in the Calculation View editor in SAP Business Application Studio. Right-click the **Aggregation** node and select **Data Preview**. This will open the data preview inside the Calculation View editor.
+14. Preview the results of your Calculation View directly in the Calculation View editor in SAP Business Application Studio. Right-click the **Aggregation** node and select **Data Preview**. This will open the data preview inside the Calculation View editor.
 
 ### 4. Preview Data in the Calculation View
 
