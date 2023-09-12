@@ -12,7 +12,7 @@ Once you've completed the tutorial, you'll be able to:
 
 ## Business Scenario
 
-* Business analysts without deep statistical knowledge are guidede through the steps to perform a risk analysis forecast for a food delivery service that has several vendors delivering food to the company's customers.
+* Business analysts without deep statistical knowledge are guided through the steps to perform a risk analysis forecast for a food delivery service that has several vendors delivering food to the company's customers.
 * The Risk Manager John, calculates the costs of service delivery issues such as late deliveries, or goods delivered in unacceptable conditions to customers
 using a risk management application built on SAP BTP.
 
