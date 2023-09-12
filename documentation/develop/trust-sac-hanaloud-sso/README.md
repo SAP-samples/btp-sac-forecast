@@ -59,6 +59,7 @@ For the steps in the SAP HANA Cloud system, the Administrator role is required o
 6. In the **Purpose** field, select **SAML**.
 7. In the **Providers** field, select the newly created SAML identity provider.
 8. Choose **Save**.
+9. Go back to SAP Analytics Cloud, and finish creating the connection by choosing OK in the Connection dialog.
 
 ![HANA-DB-cockpit-edit-purpose](./images/HANA-DB-cockpit-edit-purpose.jpg)
 
@@ -90,8 +91,7 @@ For the steps in the SAP HANA Cloud system, the Administrator role is required o
 1. Grant your user the required access to the data that you want to expose from your SAP HANA Cloud database. In this case, grant the access role to an HDI container where we have created a Calculation view of type CUBE. 
 2. Go to **Role Assignment** and choose **Add**.
 3. Choose the **access_role and external_privileges_role** for the HDI container.
-4. Go back to **SAP Analytics Cloud**, and finish creating the connection by choosing **OK** in the **Connection** dialog.
-
+   
 ![HANA-DB-cockpit-add-hdi-access-role.jpg](./images/HANA-DB-cockpit-add-hdi-access-role.jpg)
 
 ## Result
