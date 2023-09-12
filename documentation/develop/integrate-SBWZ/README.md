@@ -22,11 +22,11 @@ In this section, you will connect the Risk Management application to SAP Build W
 
 ![SBWZ-Cockpit-content-explorer](./images/SBWZ-Cockpit-content-explorer.jpg)
 
-5. Select the **Risks** and **Mitigations** checkboxes, and then choose **Add to My Content**.
+5. Select the **Risks** and **Mitigations** checkboxes, and then choose **Add**.
 
 ![SBWZ-Cockpit-Add-the-Risks-and-mitigations-to-my-content](./images/SBWZ-Cockpit-Add-the-Risks-and-mitigations-to-my-content.jpg)
 
-6. Choose **Content Manager** &rarr; **My Content**.
+6. Choose **Content Manager**.
 
 7. In the **Items** list, choose **Everyone**. **Everyone** is a role that has to be assigned to the Risks and Mitigations applications so all users can access them.
 
