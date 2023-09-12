@@ -21,7 +21,6 @@ To execute all the necessary steps of the tutorial, you will need the following 
       | SAP Build Work zone standard edition           | standard edition |
       | SAP Business Application Studio                | standard edition |
       | SAP HANA Cloud                                 | hana             |
-      | SAP Build Work zone standard edition           | standard edition |
       | Destination service                            | lite             |
 
 * You can find out which BTP services [Free Tier and Always Free plans](https://help.sap.com/docs/btp/sap-business-technology-platform/trial-accounts-and-free-tier) and what the limitations are in the [SAP Discovery Center service catalog overview](https://discovery-center.cloud.sap/viewServices)
