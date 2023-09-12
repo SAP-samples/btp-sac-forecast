@@ -10,7 +10,7 @@ To run the sample application included in this mission, see the [Authorization a
 ## [Optional] Set Up SAP S/4HANA Cloud
 
 SAP S/4HANA Cloud system provides a large number of features to support your company's business processes.
-If you have already have an administrator user for the SAP S/4HANA Cloud system, you can skip this step. See the [User Onboarding for SAP S/4HANA Cloud](https://help.sap.com/docs/SAP_S4HANA_CLOUD/b249d650b15e4b3d9fc2077ee921abd0/30415f166409468689b31571989e4b95.html) section in SAP Help Portal if you have created initial users for your SAP S/4HANA Cloud system. Follow the official documentation, to do the initial setup for your Starter, Quality, and Productive systems.
+If you already have an administrator user for the SAP S/4HANA Cloud system, you can skip this step. See the [User Onboarding for SAP S/4HANA Cloud](https://help.sap.com/docs/SAP_S4HANA_CLOUD/b249d650b15e4b3d9fc2077ee921abd0/30415f166409468689b31571989e4b95.html) section in SAP Help Portal if you have created initial users for your SAP S/4HANA Cloud system. Follow the official documentation, to do the initial setup for your Starter, Quality, and Productive systems.
 
 ### [Optional] Create the Administrator Business User and Role
 
