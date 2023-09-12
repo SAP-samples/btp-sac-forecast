@@ -16,7 +16,7 @@ You cannot use Calculation views of type Dimension, nor tables, nor SQL views fo
 
 ## 2. Create Connection Between SAP HANA Cloud and SAP Analytics Cloud
 
-1. Open  the **SAP BTP cockpit**, navigate to your subaccount and choose **Servces** &rarr; **Instances and Subscriptions**. From the **Instances** list, select **cpapp-db**.
+1. Open  the **SAP BTP cockpit**, navigate to your subaccount and choose **Services** &rarr; **Instances and Subscriptions**. From the **Instances** list, select **cpapp-db**.
 2. Click on **keys**, to see the credentials that are going to be used for establishing live connection. 
 
 ![BTP-cockpit-schema-hdi-containers](./images/BTP-cockpit-schema-hdi-containers.jpg)
@@ -25,24 +25,25 @@ You cannot use Calculation views of type Dimension, nor tables, nor SQL views fo
 
 ![BTP-cockpit-credentials.jpg](./images/BTP-cockpit-credentials.jpg)
 
-4. Open to the **SAP Analytics Cloud** tenant, choose **Connections**, then choose **"+"** to create a live data connection setting. Select the **Cloud** checkbox in **Data source Type**, expand **Connect to Live Data**, and then choose **SAP HANA**.
+4. In the SAP Analytics Cloud tenant, choose **Security** &rarr; **Users** and add to the SAP Analytics Cloud user any of these standard application roles: **Admin, Application Creator, BI Content Creator, BI Admin, and Planner Reporter**.
+    
+5. Open to the **SAP Analytics Cloud** tenant, choose **Connections**, then choose **"+"** to create a live data connection setting. Select the **Cloud** checkbox in **Data source Type**, expand **Connect to Live Data**, and then choose **SAP HANA**.
 
 ![SAC-select-a-data-source.jpg](./images/SAC-select-a-data-source.jpg)
 
 >Hint: To access SAP HANA Cloud data without having to set up the SAP HANA Analytics Adapter, you can create a live data connection using the **SAP HANA Cloud** connection type.
 
-5. Provide a name for the **HANA Live Connection**. Select the **SAP HANA Cloud** connection type.
+6. Provide a name for the **HANA Live Connection**. Select the **SAP HANA Cloud** connection type.
 **hostname** would be the SAP HANA Cloud endpoint without the port number.
-6. (Optional) In the **Default Language** dropdown menu, select a language.
-7. In the **Authentication Method** dropdown menu, select **SAML Single Sign On**.
-8. For SAML Single Sign-On only, copy the **SAML Identity Provider** from the **Provider Name** field in the connection dialog, and also choose **Download Signing Certificate** from this dialog.
+7. (Optional) In the **Default Language** dropdown menu, select a language.
+8. In the **Authentication Method** dropdown menu, select **SAML Single Sign On**.
+9. For SAML Single Sign-On only, copy the **SAML Identity Provider** from the **Provider Name** field in the connection dialog, and also choose **Download Signing Certificate** from this dialog.
 >Note: You’ll need these two items to perform SAP HANA Cloud trust configuration to set up the SAML Single Sign-On.
   
 ![SAC-hana-live-connection](./images/SAC-hana-live-connection.jpg)
 
-9. Continue with the next step, and **DON’T** choose **OK** to finish creating this connection.
+10. Continue with the next step, and **DON’T** choose **OK** to finish creating this connection.
 
-10. In the SAP Analytics Cloud tenant, choose **Security** &rarr; **Users** and add to the SAP Analytics Cloud user any of these standard application roles: **Admin, Application Creator, BI Content Creator, BI Admin, and Planner Reporter**.
 
 ![SAC-user-privileges](./images/SAC-user-privileges.jpg)
 
