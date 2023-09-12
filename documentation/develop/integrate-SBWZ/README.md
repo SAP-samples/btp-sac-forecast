@@ -5,7 +5,7 @@ In this section, you will connect the Risk Management application to SAP Build W
  1. Create Your SAP Build Work Zone, standard edition Site
  2. Launch Your SAP Build Work Zone, Standard Edition Site
  
-![solution-diagram-Integrate-stories](./images/solution-diagram-Integrate-stories.jpg)
+![solution-diagram-Integrate-stories](./images/solution-diagram-integrate-story-SBWZ.jpg)
 
 ## Create Your SAP Build Work Zone, standard edition Site
 
