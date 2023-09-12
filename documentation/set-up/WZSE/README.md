@@ -1,6 +1,6 @@
 # Set Up SAP Build Work Zone, standard edition
 
-[SAP Build Work Zone, Standard Edition](
+[SAP Build Work Zone, standard Edition](
 https://learning.sap.com/learning-journey/implement-and-administer-sap-build-work-zone) is a digital workplace solution that offers centralized access to business applications, content, and processes. It enables personalization, collaboration, and seamless integration with both SAP and non-SAP applications.
 
 ## 1. Subscribe to SAP Build Work Zone, standard edition
