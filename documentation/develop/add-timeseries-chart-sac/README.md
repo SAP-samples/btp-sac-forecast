@@ -14,8 +14,9 @@ This type of chart is called a Time Series chart, which displays values changing
 
 To use forecasting for Time Series Charts and Line Charts on live data connections for a tenant, you should enable the system configuration setting **Live Data Models: Enable Smart Grouping and predictive forecasting**.
  
-1. In **SAP Analytics Cloud**, choose **System** &rarr; **Adminstrator**.
+1. In **SAP Analytics Cloud**, choose **System** &rarr; **Administration**.
 2. Search for **Enable Smart Grouping and predictive forecasting**.
+3. Check "Enable Smart Grouping and predictive forecasting" is enabled.
  
 ![SAC-bar-chart-time-series-prerequisite](./images/SAC-bar-chart-time-series-prerequisite.jpg)
 
@@ -29,8 +30,9 @@ To make confident decisions, John, the risk manager, added a Time Series chart t
 4. Choose **Trend**, and then choose **Time Series**.
 5. In the **Measures** field, set **IMPACT**.
 6. In the **Time** field, set **CREATEDAT**. Time should always be of data type Date.
-7. In the **Filters** field set **PARTNERNAME**. Select all 4 Partners.
-8. To color the line graph, add a color from the palette.
+7. In the **Dimensions** field, set **PARTNERNAME**
+8. In the **Filters** field set **PARTNERNAME**. Select all 4 Partners.
+9. To color the line graph, add a color from the palette.
 
 ![SAC-bar-chart-time-series](./images/SAC-bar-chart-time-series.jpg)
 
