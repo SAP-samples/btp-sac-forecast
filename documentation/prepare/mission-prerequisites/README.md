@@ -27,9 +27,9 @@ To execute all the necessary steps of the tutorial, you will need the following 
   
 ### 3. The SAP Risk Management Reference Application
 
-1. [Optional] - Complete the tutorial on [How to develop and deploy an application based on SAP Cloud Application Programming Model CAP](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use). We will customize rik management application to add analytics articacts later in our scenario. 
+1. [Optional] - Complete the tutorial on [How to develop and deploy an application based on SAP Cloud Application Programming Model CAP](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use). We will customize risk management application to add analytics artifacts later in our scenario. 
 
-2. Download risk management application zip file developped with CAP (SAP Cloud Application Programming model) from repository: [ext-service-s4hc-use](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use)
+2. Download risk management application zip file developed with CAP (SAP Cloud Application Programming model) from repository: [ext-service-s4hc-use](https://github.com/SAP-samples/cloud-cap-risk-management/tree/ext-service-s4hc-use)
 
 ![risk-management-app](./GitHub-Download-risk-management-app.jpg)
 
