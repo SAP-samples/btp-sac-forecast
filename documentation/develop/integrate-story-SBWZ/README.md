@@ -7,7 +7,7 @@ In this section, you will integrate the story URL in SAP Build Work Zone, standa
  3. Assign apps to groups 
  4. Assign apps to roles
  
-![solution-diagram-integrate-story-SBWZ](./solution-diagram-Integrate-stories.jpg)
+![solution-diagram-Integrate-stories.jpg](./solution-diagram-Integrate-stories.jpg)
 
 ## 1. Copy the URL of the Bar and Time Series Charts
 
