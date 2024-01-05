@@ -4,20 +4,9 @@ In this section, you will open SAP Business Application Studio, create new devel
 
   ![solution-diagram-deploy-app](./images/solution-diagram-deploy-app.jpg)
 
-### 1. Create a Dev Space 
+### 1. Prerequisites 
 
-1.  Open  the **SAP BTP cockpit**, navigate to your subaccount and choose **Servces** &rarr; **Instances and Subscriptions**. From the **Subscriptions** list, select **SAP Business Application Studio**.
-
-![BTP-cockpit-open-BAS](./images/BTP-cockpit-open-BAS.jpg)
-
-2. In the **Create a New Dev Space** field, enter a name of the dev space, for example **HanaSAC**.
-3. Select the **SAP HANA Native Application** radio button as an application type to support the creation of database artifacts like calculation views, tables, and more.
-
-![BAS-create-dev-space](./images/BAS-create-dev-space.jpg)
-
-4. After a moment, the state of the Dev Space created changed to **RUNNING** , Click on the **Dev Space name** to launch Business Application Studio. Choose **Create Dev Space**.
-
-![BAS-create-dev-space](./images/BAS-Access-dev-space.jpg)
+You have already set up **SAP Business Application Studio** and created a dev space, for example **HanaSAC**.
 
 ### 2.  Open the Dev Space and Import the Risk Management Application
 
