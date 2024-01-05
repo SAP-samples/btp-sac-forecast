@@ -63,7 +63,7 @@ In essence, these are the steps you need to follow:
       git clone -b mock https://github.com/SAP-samples/cloud-extension-ecc-business-process.git
    ```
 
-3. In the menu, choose **File** and then choose **Open Workspace** from the dropdown menu.
+3. In the menu, choose **File** and then choose **Open Folder...** from the dropdown menu.
 
 4. To open the project, choose **projects** &rarr; **cloud-extension-ecc-business-process** and then choose **Open**.
 
