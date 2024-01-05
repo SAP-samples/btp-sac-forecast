@@ -19,14 +19,6 @@ In essence, these are the steps you need to follow:
 * Configure the entitlement of SAP Business Application Studio in you global account in SAP BTP. See [SAP Help Portal: Getting Started Guide](https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/19611ddbe82f4bf2b493283e0ed602e5.html?locale=en-US).
 * Enable the Cloud Foundry environment for your subaccount in SAP BTP.
 
-### Create Workspace
-
-1. Open the SAP Business Application Studio. Choose **Create a New Dev Space** and check the **Full Stack Cloud Application** radio button.
-
-2. Open a new terminal.
-
-### Log In to Cloud Foundry in SAP Business Application Studio
-
 **In SAP BTP cockpit:**
 1. Navigate to your subaccount and choose **Overview**. Copy the values from the **Org Name** and **API Endpoint** parameters in a text editor of your choice.
 
