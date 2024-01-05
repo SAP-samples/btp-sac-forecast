@@ -73,7 +73,7 @@ In essence, these are the steps you need to follow:
 
 7. When the project is built successfully, you will see a new **mta_archives** folder in your project with the **Mockserver_1.0.0.mtar** file inside. Right-click that file and choose **Deploy MTA Archive**.
 
-**Next step:** create a [destination](#create-destination-for-mock-server) to the mock server.
+**Next step:** create a [destination](## Create Destination to Mock Server) to the mock server.
 
 ## Option 2. Install the Mock Server Using a Local System
 
