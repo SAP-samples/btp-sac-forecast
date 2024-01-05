@@ -32,6 +32,20 @@ In essence, these are the steps you need to follow:
 
 2. In the left-hand navidation, choose **Cloud Foundry** &rarr; **Spaces**, copy the Space name and write it in a text editor of your choice.
 
+3.  Navigate to your subaccount and choose **Services** &rarr; **Instances and Subscriptions**. From the **Subscriptions** list, select **SAP Business Application Studio**.
+
+![BTP-cockpit-open-BAS](./images/BTP-cockpit-open-BAS.jpg)
+
+4. In the **Create a New Dev Space** field, enter a name of the dev space, for example **HanaSAC**.
+
+5. Select the **SAP HANA Native Application** radio button as an application type to support the creation of database artifacts like calculation views, tables, and more.
+
+![BAS-create-dev-space](./images/BAS-create-dev-space.jpg)
+
+4. After a moment, the state of the Dev Space created changed to **RUNNING** , Click on the **Dev Space name** to launch Business Application Studio. Choose **Create Dev Space**.
+
+![BAS-create-dev-space](./images/BAS-Access-dev-space.jpg)
+
 **In SAP Business Application Studio:**
 1. In the tabs, choose **View** and select **Find Command**.
 
