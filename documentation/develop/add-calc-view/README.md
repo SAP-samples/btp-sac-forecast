@@ -48,7 +48,7 @@ SAP_UI_RISKMANAGEMENT_RISKS
 >Hint: Files are auto saved, but this might take a few seconds.
 
 10. Right click on the **mta.yaml** file to the Build MTA project.
-11. Go to **SAP HANA PROJECTS** in the bottom, click on folder **src(pending deployment)**, choose **Deploy** ![icon-deploy](./images/icon-deploy.png) to deploy view-RM.hdbview.
+11. Goto **SAP HANA PROJECTS** in the bottom, click on folder **src(pending deployment)**, choose **Deploy** ![icon-deploy](./images/icon-deploy.png) to deploy view-RM.hdbview.
 
 ### 2. Add a Calculation View
 
