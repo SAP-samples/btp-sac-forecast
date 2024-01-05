@@ -47,8 +47,6 @@ In essence, these are the steps you need to follow:
 
 7. Once you have selected the Org and the Space, log in to Cloud Foundry in SAP Business Application Studio.
 
-8. Replace all content of the file ../srv/csv/OP_API_BUSINESS_PARTNER_SRV-A_BusinessPartner.csv with sample business partner data we use in our project   [OP_API_BUSINESS_PARTNER_SRV-A_BusinessPartner.csv](./OP_API_BUSINESS_PARTNER_SRV-A_BusinessPartner.csv)
-
 **Result:** you have successfully created a workspace and pointed to our desired Cloud Foundry Org and Space.
 
 ### Build and Deploy the Mock Server Application
