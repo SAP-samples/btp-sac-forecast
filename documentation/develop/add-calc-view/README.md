@@ -47,7 +47,7 @@ SAP_UI_RISKMANAGEMENT_RISKS
 ```
 >Hint: Files are auto saved, but this might take a few seconds.
 
-10. Right click on the **mta.yaml** file to the Build MTA project.
+10. Right click on the **mta.yaml** file to Build MTA project.
 11. Goto **SAP HANA PROJECTS** in the bottom, click on folder **src(pending deployment)**, choose **Deploy** ![icon-deploy](./images/icon-deploy.png) to deploy view-RM.hdbview.
 
 ### 2. Add a Calculation View
@@ -61,6 +61,7 @@ Upload the **[calcview-RM.hdbcalculationview](./calcview-RM.hdbcalculationview)*
 5. Select the **CUBE** data category.
 6. Name the file **calcview-RM**. The appropriate file suffix **(.hdbcalculationview)** is appended to the name by the wizard.
 7. Save the changes and create the new database artifact.
+8. Right click on the **mta.yaml** file to Build MTA project.
 
 ![BAS-create-sap-hana-artifacts-calc-view](./images/BAS-create-sap-hana-artifacts-calc-view.jpg)
 
