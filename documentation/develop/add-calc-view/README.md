@@ -75,7 +75,7 @@ Upload the **[calcview-RM.hdbcalculationview](./calcview-RM.hdbcalculationview)*
 
 >Hint: If you want to see all objects available via the connection service, enter ** in the search field.
 
-10. Double click **projection_1**, then choose **Mapping**. Here you can select which columns will be part of the output. Select all columns by double clicking **view-RM**. You can see they are added to the output section on the right. Connect the **Join** node to the **Aggregation** node above it. Just click the **arrow icon** of the **Join** node and drag and drop it on the **Aggregation** node.
+10. Double click **projection_1**, then choose **Mapping**. Here you can select which columns will be part of the output. Select all columns by double clicking **view-RM** below the Data sources. You can see they are added to the output section on the right. Connect the **Join** node to the **Aggregation** node above it. Just click the **arrow icon** of the **Join** node and drag and drop it on the **Aggregation** node.
 
 ![BAS-calcultation-view-aggregation-mapping](./images/BAS-calcultation-view-aggregation-mapping.jpg)
 
