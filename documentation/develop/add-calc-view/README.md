@@ -81,7 +81,7 @@ Upload the **[calcview-RM.hdbcalculationview](./calcview-RM.hdbcalculationview)*
 
 11. Choose Aggregation, then double click on Projection_1 below the Data sources
 
-12. Choose **Semantics**, then **Columns**, and select the **CRITICALITY** checkbox.
+12. Choose **Semantics**, then **Columns**, select the **CRITICALITY** checkbox and **Mark as Attirbute**.
 
 ![BAS-calcultation-view-semantic-columns-criticality](./images/BAS-calcultation-view-semantic-columns-criticality.jpg)
 
