@@ -65,7 +65,7 @@ Upload the **[calcview-RM.hdbcalculationview](./calcview-RM.hdbcalculationview)*
 
 ![BAS-create-sap-hana-artifacts-calc-view](./images/BAS-create-sap-hana-artifacts-calc-view.jpg)
 
-8. **Open** the file **calcview-RM.hdbcalculationview** in the **./db/src/** folder.
+8. Goto **SAP HANA PROJECTS** in the bottom and **Open** the file **calcview-RM.hdbcalculationview** in **/src/gen** folder.
 
 ![BAS-calcultation-view-add-a-projection](./images/BAS-calcultation-view-add-a-projection.jpg)
 
