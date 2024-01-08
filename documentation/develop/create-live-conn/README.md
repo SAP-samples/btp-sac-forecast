@@ -26,6 +26,8 @@ You cannot use Calculation views of type Dimension, nor tables, nor SQL views fo
 ![BTP-cockpit-credentials.jpg](./images/BTP-cockpit-credentials.jpg)
 
 4. In the SAP Analytics Cloud tenant, choose **Security** &rarr; **Users** and add to the SAP Analytics Cloud user any of these standard application roles: **Admin, Application Creator, BI Content Creator, BI Admin, and Planner Reporter**.
+
+![SAC-user-privileges](./images/SAC-user-privileges.jpg)
     
 5. Open to the **SAP Analytics Cloud** tenant, choose **Connections**, then choose **"+"** to create a live data connection setting. Select the **Cloud** checkbox in **Data source Type**, expand **Connect to Live Data**, and then choose **SAP HANA**.
 
@@ -43,9 +45,6 @@ You cannot use Calculation views of type Dimension, nor tables, nor SQL views fo
 ![SAC-hana-live-connection](./images/SAC-hana-live-connection.jpg)
 
 10. Continue with the next step, and **DON’T** choose **OK** to finish creating this connection.
-
-
-![SAC-user-privileges](./images/SAC-user-privileges.jpg)
 
 ### Result
 You have finished the set up of a live data connection from SAP Analytics Cloud.
