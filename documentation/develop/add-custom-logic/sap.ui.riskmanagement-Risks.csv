@@ -1,165 +1,165 @@
-CREATEDAT;CREATEDBY;MODIFIEDAT;MODIFIEDBY;ID;PARTNERNAME;TITLE;PRIO;DESCR;MITI_ID;IMPACT;SUPPLIER_ID;CRITICALITY
-01.01.2020;max.mustermann@muster.com;01.01.2020;max.mustermann@muster.com;aa4ccfef-7505-4715-ba7d-dd4d61484f61;Leonard Corp;SLA violation with possible termination cause;2;;;0;1;
-01.01.2020;max.mustermann@muster.com;01.01.2020;max.mustermann@muster.com;74d26b19-02f5-4eb9-93e4-0b2823f4c74d;Food Corp;SLA violation with possible termination cause;2;;;104172;4;
-01.01.2020;max.mustermann@muster.com;01.01.2020;max.mustermann@muster.com;50d4d2eb-5e56-40b3-943a-7baf236d75a7;Logistic Corp;SLA violation with possible termination cause;2;;;0;2;
-01.01.2020;max.mustermann@muster.com;01.01.2020;max.mustermann@muster.com;fedb6373-f984-4e53-bc15-aecacd608171;Walldorf Corp;SLA violation with possible termination cause;2;;;311862;3;
-01.02.2020;max.mustermann@muster.com;01.02.2020;max.mustermann@muster.com;6c901134-61da-42aa-86ea-65f2848bf0ed;Leonard Corp;Shipment violating export control;1;;;0;1;
-01.02.2020;max.mustermann@muster.com;01.02.2020;max.mustermann@muster.com;270ce4e3-a21a-4666-9ebf-d6aa130a942c;Food Corp;Shipment violating export control;1;;;103534;4;
-01.02.2020;max.mustermann@muster.com;01.02.2020;max.mustermann@muster.com;159ee217-ddd5-4954-ada9-305816f0e189;Logistic Corp;Shipment violating export control;1;;;24682;2;
-01.02.2020;max.mustermann@muster.com;01.02.2020;max.mustermann@muster.com;cedf54e3-acb6-4151-aaa9-65138409c6c3;Walldorf Corp;Shipment violating export control;1;;;314554;3;
-01.03.2020;max.mustermann@muster.com;01.03.2020;max.mustermann@muster.com;8b37b0fb-b8bc-415e-b7b8-06a1e1f5d07b;Leonard Corp;Shipment violating export control;1;;;9855;1;
-01.03.2020;max.mustermann@muster.com;01.03.2020;max.mustermann@muster.com;f7e9c0f2-c665-455b-9cae-4d54bae35793;Food Corp;Shipment violating export control;1;;;91083;4;
-01.03.2020;max.mustermann@muster.com;01.03.2020;max.mustermann@muster.com;2203daeb-163f-466b-a16f-70739b3812df;Logistic Corp;Shipment violating export control;1;;;35678;2;
-01.03.2020;max.mustermann@muster.com;01.03.2020;max.mustermann@muster.com;3cc220f9-b07c-41d2-bdff-617f9b03163c;Walldorf Corp;Shipment violating export control;1;;;307178;3;
-01.04.2020;max.mustermann@muster.com;01.04.2020;max.mustermann@muster.com;a138c0e7-7235-4b04-bb94-b32751c455be;Leonard Corp;SLA violation with possible termination cause;3;;;7200;1;
-01.04.2020;max.mustermann@muster.com;01.04.2020;max.mustermann@muster.com;b4bfe123-c7ef-4203-a1c3-22d043de09fd;Food Corp;SLA violation with possible termination cause;3;;;91326;4;
-01.04.2020;max.mustermann@muster.com;01.04.2020;max.mustermann@muster.com;f2cde66f-7f1b-4055-9c41-27560081e6f8;Logistic Corp;SLA violation with possible termination cause;3;;;33301;2;
-01.04.2020;max.mustermann@muster.com;01.04.2020;max.mustermann@muster.com;b2d82b42-7b4b-423a-9a3b-af7759ec2ab6;Walldorf Corp;SLA violation with possible termination cause;3;;;301533;3;
-01.05.2020;max.mustermann@muster.com;01.05.2020;max.mustermann@muster.com;6c56c657-6222-49b4-9c56-8488202e4a64;Leonard Corp;SLA violation with possible termination cause;1;;;30996;1;
-01.05.2020;max.mustermann@muster.com;01.05.2020;max.mustermann@muster.com;53ff29ca-dadb-47eb-95fc-ce674bc25493;Food Corp;SLA violation with possible termination cause;1;;;98678;4;
-01.05.2020;max.mustermann@muster.com;01.05.2020;max.mustermann@muster.com;e541d2d8-bcf6-4f74-bed9-c25d54bb0d5b;Logistic Corp;SLA violation with possible termination cause;1;;;49821;2;
-01.05.2020;max.mustermann@muster.com;01.05.2020;max.mustermann@muster.com;b440977c-e035-4bd5-b9bf-34b3179d28fb;Walldorf Corp;SLA violation with possible termination cause;1;;;282595;3;
-01.06.2020;max.mustermann@muster.com;01.06.2020;max.mustermann@muster.com;04a27795-4881-4ceb-8d00-df33211e8542;Leonard Corp;CFR non-compliance;1;;;0;1;
-01.06.2020;max.mustermann@muster.com;01.06.2020;max.mustermann@muster.com;512e296e-1fe1-498e-8c2f-687b869428a2;Food Corp;CFR non-compliance;1;;;89247;4;
-01.06.2020;max.mustermann@muster.com;01.06.2020;max.mustermann@muster.com;6068e4e2-4d2f-432a-9a2f-24bb909b7179;Logistic Corp;CFR non-compliance;1;;;13103;2;
-01.06.2020;max.mustermann@muster.com;01.06.2020;max.mustermann@muster.com;f9fa0149-faa5-4179-9bff-833c035dcc13;Walldorf Corp;CFR non-compliance;1;;;261735;3;
-01.07.2020;max.mustermann@muster.com;01.07.2020;max.mustermann@muster.com;266eeb93-b8cd-456f-a92e-25c838acdb28;Leonard Corp;SLA violation with possible termination cause;1;;;1071;1;
-01.07.2020;max.mustermann@muster.com;01.07.2020;max.mustermann@muster.com;63e7e433-3abc-4117-ae18-0f76005ee3cb;Food Corp;SLA violation with possible termination cause;1;;;90061;4;
-01.07.2020;max.mustermann@muster.com;01.07.2020;max.mustermann@muster.com;9b061e0f-cb78-42fa-a33e-3ecbc0642d02;Logistic Corp;SLA violation with possible termination cause;1;;;60456;2;
-01.07.2020;max.mustermann@muster.com;01.07.2020;max.mustermann@muster.com;3acb049a-67c1-444a-915b-6d09326553a0;Walldorf Corp;SLA violation with possible termination cause;1;;;232451;3;
-01.08.2020;max.mustermann@muster.com;01.08.2020;max.mustermann@muster.com;f4581da0-6694-4bfc-a6f0-7e769ec4af89;Leonard Corp;SLA violation with possible termination cause;3;;;34411;1;
-01.08.2020;max.mustermann@muster.com;01.08.2020;max.mustermann@muster.com;6ff6621c-2e43-40e1-970d-ee2247fb92b0;Food Corp;SLA violation with possible termination cause;3;;;77978;4;
-01.08.2020;max.mustermann@muster.com;01.08.2020;max.mustermann@muster.com;1675fb77-31dd-47df-86a1-d8eed40f40c0;Logistic Corp;SLA violation with possible termination cause;3;;;28019;2;
-01.08.2020;max.mustermann@muster.com;01.08.2020;max.mustermann@muster.com;0454fa45-bc7e-46ed-b460-66ee1c04bb68;Walldorf Corp;SLA violation with possible termination cause;3;;;219581;3;
-01.09.2020;max.mustermann@muster.com;01.09.2020;max.mustermann@muster.com;bfe770c2-dd4d-4bbd-898d-c5682203875d;Leonard Corp;Shipment violating export control;1;;;97836;1;
-01.09.2020;max.mustermann@muster.com;01.09.2020;max.mustermann@muster.com;76d846c9-9c7c-460c-b9f6-cd01a02c21f8;Food Corp;Shipment violating export control;1;;;85896;4;
-01.09.2020;max.mustermann@muster.com;01.09.2020;max.mustermann@muster.com;6ee9549d-3999-4ed4-9109-3172d9f42d3b;Logistic Corp;Shipment violating export control;1;;;45334;2;
-01.09.2020;max.mustermann@muster.com;01.09.2020;max.mustermann@muster.com;9e083dc6-b684-4188-bfd4-4f0462be572b;Walldorf Corp;Shipment violating export control;1;;;207253;3;
-01.10.2020;max.mustermann@muster.com;01.10.2020;max.mustermann@muster.com;bad9c82e-adb3-48e7-910c-dd68a1fa35c9;Leonard Corp;Shipment violating export control;2;;;89865;1;
-01.10.2020;max.mustermann@muster.com;01.10.2020;max.mustermann@muster.com;3266e8d9-1e33-4d1a-8aae-50085883f12d;Food Corp;Shipment violating export control;2;;;79372;4;
-01.10.2020;max.mustermann@muster.com;01.10.2020;max.mustermann@muster.com;6689ff07-0e47-4ec3-990a-abb93fcc4db3;Logistic Corp;Shipment violating export control;2;;;37211;2;
-01.10.2020;max.mustermann@muster.com;01.10.2020;max.mustermann@muster.com;de63b1b3-73c3-4601-b247-5159320eae17;Walldorf Corp;Shipment violating export control;2;;;207666;3;
-01.11.2020;max.mustermann@muster.com;01.11.2020;max.mustermann@muster.com;5797ec87-f605-4882-98ea-0ad7d0a4ea51;Leonard Corp;CFR non-compliance;1;;;1981;1;
-01.11.2020;max.mustermann@muster.com;01.11.2020;max.mustermann@muster.com;0b37d2f6-0a46-4962-9a05-d279d5e4a61c;Food Corp;CFR non-compliance;1;;;73703;4;
-01.11.2020;max.mustermann@muster.com;01.11.2020;max.mustermann@muster.com;9e99c4a2-8877-40aa-a2a8-b0bba862e49b;Logistic Corp;CFR non-compliance;1;;;59943;2;
-01.11.2020;max.mustermann@muster.com;01.11.2020;max.mustermann@muster.com;43ad0b13-268a-4a78-baf1-7db87df0f487;Walldorf Corp;CFR non-compliance;1;;;211370;3;
-01.12.2020;max.mustermann@muster.com;01.12.2020;max.mustermann@muster.com;645c75f5-ce15-4087-8251-fafb3b45c0df;Leonard Corp;CFR non-compliance;3;;;47916;1;
-01.12.2020;max.mustermann@muster.com;01.12.2020;max.mustermann@muster.com;167dd09c-1ca8-44f6-bc44-6ad799c2faae;Food Corp;CFR non-compliance;3;;;80361;4;
-01.12.2020;max.mustermann@muster.com;01.12.2020;max.mustermann@muster.com;95d67c5a-0e78-4bcd-80a4-9d31808d85d4;Logistic Corp;CFR non-compliance;3;;;61480;2;
-01.12.2020;max.mustermann@muster.com;01.12.2020;max.mustermann@muster.com;072084ac-d1af-4696-a15b-9d65d26a42a5;Walldorf Corp;CFR non-compliance;3;;;217782;3;
-01.01.2021;max.mustermann@muster.com;01.01.2021;max.mustermann@muster.com;41cb70b5-8937-497c-9ddc-2db4173c555e;Leonard Corp;Shipment violating export control;2;;;83523;1;
-01.01.2021;max.mustermann@muster.com;01.01.2021;max.mustermann@muster.com;f427496e-a97e-430a-9d42-eded9f0d2a6a;Food Corp;Shipment violating export control;2;;;76175;4;
-01.01.2021;max.mustermann@muster.com;01.01.2021;max.mustermann@muster.com;c6220e2c-e82f-43e3-8a1f-b489057c5181;Logistic Corp;Shipment violating export control;2;;;84651;2;
-01.01.2021;max.mustermann@muster.com;01.01.2021;max.mustermann@muster.com;67e9e635-7621-4b38-80ce-35f7a940de46;Walldorf Corp;Shipment violating export control;2;;;228014;3;
-01.02.2021;max.mustermann@muster.com;01.02.2021;max.mustermann@muster.com;3695db39-332d-4561-8088-bc76ec7c80fa;Leonard Corp;SLA violation with possible termination cause;3;;;46267;1;
-01.02.2021;max.mustermann@muster.com;01.02.2021;max.mustermann@muster.com;b534e856-a8c2-49e3-8f71-e49881f46e25;Food Corp;SLA violation with possible termination cause;3;;;71834;4;
-01.02.2021;max.mustermann@muster.com;01.02.2021;max.mustermann@muster.com;da5d6940-11a5-4702-bfdd-e24aaa8f2b57;Logistic Corp;SLA violation with possible termination cause;3;;;105479;2;
-01.02.2021;max.mustermann@muster.com;01.02.2021;max.mustermann@muster.com;a6185e0a-ac46-46c7-8aed-438dfc2dd453;Walldorf Corp;SLA violation with possible termination cause;3;;;230823;3;
-01.03.2021;max.mustermann@muster.com;01.03.2021;max.mustermann@muster.com;c39b5ba4-8485-4080-9082-a7812ebc172c;Leonard Corp;CFR non-compliance;3;;;166483;1;
-01.03.2021;max.mustermann@muster.com;01.03.2021;max.mustermann@muster.com;04f13a22-fae1-43bf-82f6-fc6730da0424;Food Corp;CFR non-compliance;3;;;63383;4;
-01.03.2021;max.mustermann@muster.com;01.03.2021;max.mustermann@muster.com;fae5be92-d533-4b76-8a77-f00a3e92b6bf;Logistic Corp;CFR non-compliance;3;;;108423;2;
-01.03.2021;max.mustermann@muster.com;01.03.2021;max.mustermann@muster.com;0d5f40d6-441a-4bff-9cdb-52963e628a7d;Walldorf Corp;CFR non-compliance;3;;;223125;3;
-01.04.2021;max.mustermann@muster.com;01.04.2021;max.mustermann@muster.com;7a534cf5-a3f6-42d7-85f0-c74c81e39d1c;Leonard Corp;SLA violation with possible termination cause;3;;;168163;1;
-01.04.2021;max.mustermann@muster.com;01.04.2021;max.mustermann@muster.com;a9e4c6c8-58b3-4113-8007-f964216d656e;Food Corp;SLA violation with possible termination cause;3;;;58980;4;
-01.04.2021;max.mustermann@muster.com;01.04.2021;max.mustermann@muster.com;7bf6f1ef-56f8-4c8a-8941-cfb15df6e4a5;Logistic Corp;SLA violation with possible termination cause;3;;;104205;2;
-01.04.2021;max.mustermann@muster.com;01.04.2021;max.mustermann@muster.com;3e99b8e8-13aa-45f7-8913-54526ee6a3cc;Walldorf Corp;SLA violation with possible termination cause;3;;;212410;3;
-01.05.2021;max.mustermann@muster.com;01.05.2021;max.mustermann@muster.com;4684ec5f-949c-4303-a194-0d59e5ac6465;Leonard Corp;SLA violation with possible termination cause;1;;;174788;1;
-01.05.2021;max.mustermann@muster.com;01.05.2021;max.mustermann@muster.com;c92674c2-60b8-4591-80e4-6f3d3de5778a;Food Corp;SLA violation with possible termination cause;1;;;68949;4;
-01.05.2021;max.mustermann@muster.com;01.05.2021;max.mustermann@muster.com;7d92a007-7d49-4d2c-b188-fa761da2c14f;Logistic Corp;SLA violation with possible termination cause;1;;;86340;2;
-01.05.2021;max.mustermann@muster.com;01.05.2021;max.mustermann@muster.com;a1fb4b0a-c9a0-4f84-9612-a6ff8317738b;Walldorf Corp;SLA violation with possible termination cause;1;;;192710;3;
-01.06.2021;max.mustermann@muster.com;01.06.2021;max.mustermann@muster.com;52825ed1-66a5-464f-b7f8-4b19d250a849;Leonard Corp;SLA violation with possible termination cause;2;;;76070;1;
-01.06.2021;max.mustermann@muster.com;01.06.2021;max.mustermann@muster.com;25d02549-b28a-4253-86d0-8185052b2b6e;Food Corp;SLA violation with possible termination cause;2;;;67373;4;
-01.06.2021;max.mustermann@muster.com;01.06.2021;max.mustermann@muster.com;b7bb7b69-8172-44fe-b8c8-6b10ae3b2ad1;Logistic Corp;SLA violation with possible termination cause;2;;;119907;2;
-01.06.2021;max.mustermann@muster.com;01.06.2021;max.mustermann@muster.com;9bf4d5f3-8a09-45a2-9fbb-3c969e1fa122;Walldorf Corp;SLA violation with possible termination cause;2;;;170863;3;
-01.07.2021;max.mustermann@muster.com;01.07.2021;max.mustermann@muster.com;7888e8ae-ed75-4be3-a19e-ed5b019328be;Leonard Corp;SLA violation with possible termination cause;2;;;93922;1;
-01.07.2021;max.mustermann@muster.com;01.07.2021;max.mustermann@muster.com;62452e8d-96ab-4180-bf5d-1d311494ed6b;Food Corp;SLA violation with possible termination cause;2;;;55726;4;
-01.07.2021;max.mustermann@muster.com;01.07.2021;max.mustermann@muster.com;26363ed3-76b9-46c1-8a11-44784db38600;Logistic Corp;SLA violation with possible termination cause;2;;;114167;2;
-01.07.2021;max.mustermann@muster.com;01.07.2021;max.mustermann@muster.com;5fa660f2-6dd7-451d-bbc0-ca6acb058a2f;Walldorf Corp;SLA violation with possible termination cause;2;;;147776;3;
-01.08.2021;max.mustermann@muster.com;01.08.2021;max.mustermann@muster.com;91fba37d-1da2-4c1c-b759-240a14d9ce15;Leonard Corp;CFR non-compliance;2;;;185117;1;
-01.08.2021;max.mustermann@muster.com;01.08.2021;max.mustermann@muster.com;9b25e059-b8c1-447d-ab17-3b6bc9eda3b7;Food Corp;CFR non-compliance;2;;;59613;4;
-01.08.2021;max.mustermann@muster.com;01.08.2021;max.mustermann@muster.com;bca55f16-0793-45b6-b873-516aa7f4319f;Logistic Corp;CFR non-compliance;2;;;98817;2;
-01.08.2021;max.mustermann@muster.com;01.08.2021;max.mustermann@muster.com;85d64461-cae5-4968-a1c3-33e9e7fbfd8c;Walldorf Corp;CFR non-compliance;2;;;136099;3;
-01.09.2021;max.mustermann@muster.com;01.09.2021;max.mustermann@muster.com;884cb642-2253-4e83-8df5-59288c782d92;Leonard Corp;Shipment violating export control;1;;;104330;1;
-01.09.2021;max.mustermann@muster.com;01.09.2021;max.mustermann@muster.com;feb18628-63a6-482d-8160-e649064c1d6a;Food Corp;Shipment violating export control;1;;;54991;4;
-01.09.2021;max.mustermann@muster.com;01.09.2021;max.mustermann@muster.com;87460f8e-c902-495b-a161-f551316c1492;Logistic Corp;Shipment violating export control;1;;;130096;2;
-01.09.2021;max.mustermann@muster.com;01.09.2021;max.mustermann@muster.com;feb85931-c556-46c8-8d87-5929d8b55178;Walldorf Corp;Shipment violating export control;1;;;119595;3;
-01.10.2021;max.mustermann@muster.com;01.10.2021;max.mustermann@muster.com;1d24ec7e-e9d7-44a6-b94a-a0694161c04b;Leonard Corp;Shipment violating export control;2;;;166720;1;
-01.10.2021;max.mustermann@muster.com;01.10.2021;max.mustermann@muster.com;1cde3c39-d0f0-4ff0-8dd2-40159b03bac8;Food Corp;Shipment violating export control;2;;;51213;4;
-01.10.2021;max.mustermann@muster.com;01.10.2021;max.mustermann@muster.com;12634907-a8d6-4f32-8c36-2645a33d85d9;Logistic Corp;Shipment violating export control;2;;;116830;2;
-01.10.2021;max.mustermann@muster.com;01.10.2021;max.mustermann@muster.com;20b87107-a371-4f66-856d-f68750f12acc;Walldorf Corp;Shipment violating export control;2;;;123054;3;
-01.11.2021;max.mustermann@muster.com;01.11.2021;max.mustermann@muster.com;e35bd474-dc9c-4bd3-b10c-4816deed6fb1;Leonard Corp;CFR non-compliance;1;;;164164;1;
-01.11.2021;max.mustermann@muster.com;01.11.2021;max.mustermann@muster.com;fff8b2a4-d544-43cb-bef0-cfd780f752e2;Food Corp;CFR non-compliance;1;;;42405;4;
-01.11.2021;max.mustermann@muster.com;01.11.2021;max.mustermann@muster.com;8096d649-5b3b-4a96-a7cf-a19037d11e25;Logistic Corp;CFR non-compliance;1;;;155776;2;
-01.11.2021;max.mustermann@muster.com;01.11.2021;max.mustermann@muster.com;edf57c29-fe38-4e8a-9006-441e340f6d49;Walldorf Corp;CFR non-compliance;1;;;124348;3;
-01.12.2021;max.mustermann@muster.com;01.12.2021;max.mustermann@muster.com;339eb5bf-6804-4744-ae48-7b7015e74518;Leonard Corp;CFR non-compliance;3;;;129500;1;
-01.12.2021;max.mustermann@muster.com;01.12.2021;max.mustermann@muster.com;9a5eb843-f818-43bb-b7d1-8b26fedf9eb7;Food Corp;CFR non-compliance;3;;;38925;4;
-01.12.2021;max.mustermann@muster.com;01.12.2021;max.mustermann@muster.com;6cf91d68-fc39-4ed7-9aed-aa60b4775821;Logistic Corp;CFR non-compliance;3;;;121699;2;
-01.12.2021;max.mustermann@muster.com;01.12.2021;max.mustermann@muster.com;6284acd3-39e8-4118-929e-68ebbdd4aecc;Walldorf Corp;CFR non-compliance;3;;;130730;3;
-01.01.2022;max.mustermann@muster.com;01.01.2022;max.mustermann@muster.com;c4759c46-01f6-43c4-9df5-1cb6d3129f02;Leonard Corp;CFR non-compliance;1;;;240593;1;
-01.01.2022;max.mustermann@muster.com;01.01.2022;max.mustermann@muster.com;962c8295-d228-4422-9eab-37f767bafd19;Food Corp;CFR non-compliance;1;;;38589;4;
-01.01.2022;max.mustermann@muster.com;01.01.2022;max.mustermann@muster.com;7fd336f0-25fc-49ab-b0ce-b8ffa8241fa9;Logistic Corp;CFR non-compliance;1;;;166856;2;
-01.01.2022;max.mustermann@muster.com;01.01.2022;max.mustermann@muster.com;b853185e-524c-40a2-a832-48cde3ff04c0;Walldorf Corp;CFR non-compliance;1;;;137534;3;
-01.02.2022;max.mustermann@muster.com;01.02.2022;max.mustermann@muster.com;8d11b315-252f-497d-ac35-0c5d36766051;Leonard Corp;CFR non-compliance;1;;;173713;1;
-01.02.2022;max.mustermann@muster.com;01.02.2022;max.mustermann@muster.com;be0615c6-03cc-4b93-a51f-07c9a7bccb0b;Food Corp;CFR non-compliance;1;;;38348;4;
-01.02.2022;max.mustermann@muster.com;01.02.2022;max.mustermann@muster.com;d974936b-3ef2-4ca1-b9bf-d493ef3ec290;Logistic Corp;CFR non-compliance;1;;;158780;2;
-01.02.2022;max.mustermann@muster.com;01.02.2022;max.mustermann@muster.com;03d47ccf-bbbe-47f1-820d-929f9ac74eff;Walldorf Corp;CFR non-compliance;1;;;146545;3;
-01.03.2022;max.mustermann@muster.com;01.03.2022;max.mustermann@muster.com;ead7492f-425d-486e-91f9-c96226094fef;Leonard Corp;CFR non-compliance;1;;;163342;1;
-01.03.2022;max.mustermann@muster.com;01.03.2022;max.mustermann@muster.com;63556291-d894-4161-8a2e-b3bb1725cadc;Food Corp;CFR non-compliance;1;;;42589;4;
-01.03.2022;max.mustermann@muster.com;01.03.2022;max.mustermann@muster.com;43b593d1-a64d-49c4-a5b5-4a43e21c81e6;Logistic Corp;CFR non-compliance;1;;;179551;2;
-01.03.2022;max.mustermann@muster.com;01.03.2022;max.mustermann@muster.com;790710f9-1354-4320-ba73-a7d3e6c7535f;Walldorf Corp;CFR non-compliance;1;;;144517;3;
-01.04.2022;max.mustermann@muster.com;01.04.2022;max.mustermann@muster.com;d9f64a64-3154-44eb-a237-a835f1a297d4;Leonard Corp;CFR non-compliance;1;;;238888;1;
-01.04.2022;max.mustermann@muster.com;01.04.2022;max.mustermann@muster.com;68cfdeab-57f0-4f66-80e7-2b0b1cd7e289;Food Corp;CFR non-compliance;1;;;41843;4;
-01.04.2022;max.mustermann@muster.com;01.04.2022;max.mustermann@muster.com;c4455e08-2c69-44d9-9c84-343f10ef75ef;Logistic Corp;CFR non-compliance;1;;;188175;2;
-01.04.2022;max.mustermann@muster.com;01.04.2022;max.mustermann@muster.com;d3e7e1f9-1310-46ed-8e97-d7bcc2d72efa;Walldorf Corp;CFR non-compliance;1;;;128310;3;
-01.05.2022;max.mustermann@muster.com;01.05.2022;max.mustermann@muster.com;30f74db0-f03e-46da-a952-c22e54fccc22;Leonard Corp;CFR non-compliance;1;;;230186;1;
-01.05.2022;max.mustermann@muster.com;01.05.2022;max.mustermann@muster.com;bdb5ed7b-cb01-4977-8669-306ac6106f67;Food Corp;CFR non-compliance;1;;;35444;4;
-01.05.2022;max.mustermann@muster.com;01.05.2022;max.mustermann@muster.com;b31ef9c5-22e8-43e2-81f2-d71d2909fe5b;Logistic Corp;CFR non-compliance;1;;;180619;2;
-01.05.2022;max.mustermann@muster.com;01.05.2022;max.mustermann@muster.com;ef37baf7-bcd9-4041-b652-c8ca78c72d5d;Walldorf Corp;CFR non-compliance;1;;;111672;3;
-01.06.2022;max.mustermann@muster.com;01.06.2022;max.mustermann@muster.com;7efe01d7-263f-494c-b5c1-b2f16a1496d7;Leonard Corp;SLA violation with possible termination cause;3;;;222430;1;
-01.06.2022;max.mustermann@muster.com;01.06.2022;max.mustermann@muster.com;0490447c-2b9d-4b0a-969a-48df5a22f63a;Food Corp;SLA violation with possible termination cause;3;;;28007;4;
-01.06.2022;max.mustermann@muster.com;01.06.2022;max.mustermann@muster.com;67b73c1b-c39b-4cf6-8fec-a37c967b29f8;Logistic Corp;SLA violation with possible termination cause;3;;;168611;2;
-01.06.2022;max.mustermann@muster.com;01.06.2022;max.mustermann@muster.com;13a84f48-b4cc-4f2d-9e20-52c8f16d1b06;Walldorf Corp;SLA violation with possible termination cause;3;;;86757;3;
-01.07.2022;max.mustermann@muster.com;01.07.2022;max.mustermann@muster.com;763b45fe-582a-44d3-a20c-a784ecdab466;Leonard Corp;SLA violation with possible termination cause;1;;;275787;1;
-01.07.2022;max.mustermann@muster.com;01.07.2022;max.mustermann@muster.com;e4099c4c-661d-4bac-835a-5e5eaa57560a;Food Corp;SLA violation with possible termination cause;1;;;29409;4;
-01.07.2022;max.mustermann@muster.com;01.07.2022;max.mustermann@muster.com;b694532d-e49d-4933-8e88-6fee6c90b2c1;Logistic Corp;SLA violation with possible termination cause;1;;;171242;2;
-01.07.2022;max.mustermann@muster.com;01.07.2022;max.mustermann@muster.com;1b34c107-3357-4459-9feb-3e17b3ed8e5d;Walldorf Corp;SLA violation with possible termination cause;1;;;68161;3;
-01.08.2022;max.mustermann@muster.com;01.08.2022;max.mustermann@muster.com;aee30283-8821-4b72-aa29-c54718e8cfbc;Leonard Corp;SLA violation with possible termination cause;1;;;241761;1;
-01.08.2022;max.mustermann@muster.com;01.08.2022;max.mustermann@muster.com;f07c974c-89d4-4551-a632-d17935e85105;Food Corp;SLA violation with possible termination cause;1;;;25787;4;
-01.08.2022;max.mustermann@muster.com;01.08.2022;max.mustermann@muster.com;03e93a1e-04ba-458e-914d-7a5a8e9dc218;Logistic Corp;SLA violation with possible termination cause;1;;;197823;2;
-01.08.2022;max.mustermann@muster.com;01.08.2022;max.mustermann@muster.com;a37f5b5f-b5ab-4a4d-9e20-5e8de70c1b53;Walldorf Corp;SLA violation with possible termination cause;1;;;54452;3;
-01.09.2022;max.mustermann@muster.com;01.09.2022;max.mustermann@muster.com;e4c3f301-1c17-48f0-8a3f-229293dda6b7;Leonard Corp;SLA violation with possible termination cause;1;;;159395;1;
-01.09.2022;max.mustermann@muster.com;01.09.2022;max.mustermann@muster.com;e5e3352c-dc08-45d0-bfd8-b29152859120;Food Corp;SLA violation with possible termination cause;1;;;23522;4;
-01.09.2022;max.mustermann@muster.com;01.09.2022;max.mustermann@muster.com;c32dccd8-ca13-4beb-bbb9-cc94f54eef17;Logistic Corp;SLA violation with possible termination cause;1;;;186585;2;
-01.09.2022;max.mustermann@muster.com;01.09.2022;max.mustermann@muster.com;a99e2f7a-2cac-4ae9-9e3b-ed8e3b3ed0d3;Walldorf Corp;SLA violation with possible termination cause;1;;;39598;3;
-01.10.2022;max.mustermann@muster.com;01.10.2022;max.mustermann@muster.com;f82d8ab5-051d-46b8-a7ee-96c3ccbfdb2b;Leonard Corp;SLA violation with possible termination cause;1;;;175146;1;
-01.10.2022;max.mustermann@muster.com;01.10.2022;max.mustermann@muster.com;1db6a702-4299-4b89-97b7-32c5b6b6acd0;Food Corp;SLA violation with possible termination cause;1;;;14166;4;
-01.10.2022;max.mustermann@muster.com;01.10.2022;max.mustermann@muster.com;90bcde12-a0b7-485d-8c6e-9295982d3345;Logistic Corp;SLA violation with possible termination cause;1;;;216376;2;
-01.10.2022;max.mustermann@muster.com;01.10.2022;max.mustermann@muster.com;774e7b3a-1cc7-47e9-a7a7-b2f2d7c2c2d1;Walldorf Corp;SLA violation with possible termination cause;1;;;34647;3;
-01.11.2022;max.mustermann@muster.com;01.11.2022;max.mustermann@muster.com;8f5da3af-429b-42ba-af97-3b30750bd309;Leonard Corp;SLA violation with possible termination cause;1;;;144846;1;
-01.11.2022;max.mustermann@muster.com;01.11.2022;max.mustermann@muster.com;868073b6-4adc-4ce3-ad98-f6403eba57bc;Food Corp;SLA violation with possible termination cause;1;;;11820;4;
-01.11.2022;max.mustermann@muster.com;01.11.2022;max.mustermann@muster.com;795aa48c-eec5-47d6-aef3-dfed23dc0c18;Logistic Corp;SLA violation with possible termination cause;1;;;223723;2;
-01.11.2022;max.mustermann@muster.com;01.11.2022;max.mustermann@muster.com;783a8e6f-a7e9-4041-b652-c8ca78c72d5d;Walldorf Corp;SLA violation with possible termination cause;1;;;37627;3;
-01.12.2022;max.mustermann@muster.com;01.12.2022;max.mustermann@muster.com;537801de-b5f5-42eb-9594-991b0a7da71c;Leonard Corp;SLA violation with possible termination cause;1;;;232672;1;
-01.12.2022;max.mustermann@muster.com;01.12.2022;max.mustermann@muster.com;a40b7944-e068-4d03-8316-cd71d152629c;Food Corp;SLA violation with possible termination cause;1;;;20521;4;
-01.12.2022;max.mustermann@muster.com;01.12.2022;max.mustermann@muster.com;d8047629-6fd2-4f5c-bfce-8918e66a907c;Logistic Corp;SLA violation with possible termination cause;1;;;204527;2;
-01.12.2022;max.mustermann@muster.com;01.12.2022;max.mustermann@muster.com;acf7e1b3-3357-4459-9feb-3e17b3ed8e5d;Walldorf Corp;SLA violation with possible termination cause;1;;;51850;3;
-01.01.2023;max.mustermann@muster.com;01.01.2023;max.mustermann@muster.com;f80fc7a7-6a9e-42a2-9919-bcf5568c39fc;Leonard Corp;SLA violation with possible termination cause;1;;;199584;1;
-01.01.2023;max.mustermann@muster.com;01.01.2023;max.mustermann@muster.com;8a5ed4ed-5194-489a-a4a2-92331dee22e5;Food Corp;SLA violation with possible termination cause;1;;;8305;4;
-01.01.2023;max.mustermann@muster.com;01.01.2023;max.mustermann@muster.com;ec14b8f2-3471-4824-b8e1-b40def73b70e;Logistic Corp;SLA violation with possible termination cause;1;;;231989;2;
-01.01.2023;max.mustermann@muster.com;01.01.2023;max.mustermann@muster.com;ae2f7a77-2cac-4ae9-9e3b-ed8e3b3ed0d3;Walldorf Corp;SLA violation with possible termination cause;1;;;59563;3;
-01.02.2023;max.mustermann@muster.com;01.02.2023;max.mustermann@muster.com;84387519-5710-402b-9316-080e5117bd88;Leonard Corp;SLA violation with possible termination cause;1;;;193709;1;
-01.02.2023;max.mustermann@muster.com;01.02.2023;max.mustermann@muster.com;e59d0bb8-d912-4ffa-b490-9dab37b4e65d;Food Corp;SLA violation with possible termination cause;1;;;15322;4;
-01.02.2023;max.mustermann@muster.com;01.02.2023;max.mustermann@muster.com;e7d8d049-b479-47c2-b409-0108ac46c574;Logistic Corp;SLA violation with possible termination cause;1;;;217194;2;
-01.02.2023;max.mustermann@muster.com;01.02.2023;max.mustermann@muster.com;cdd6a2b1-7b3a-4e8f-b2e0-25c9b0860c94;Walldorf Corp;SLA violation with possible termination cause;1;;;58512;3;
-01.03.2023;max.mustermann@muster.com;01.03.2023;max.mustermann@muster.com;93317e23-225a-4325-8217-ba8e8472f6d0;Leonard Corp;SLA violation with possible termination cause;1;;;200000;1;
-01.03.2023;max.mustermann@muster.com;01.03.2023;max.mustermann@muster.com;808f27cd-e90d-48ea-a908-ec08a20eb718;Food Corp;SLA violation with possible termination cause;1;;;13000;4;
-01.03.2023;max.mustermann@muster.com;01.03.2023;max.mustermann@muster.com;632dc4e4-abb5-475c-9b27-9c40922469a9;Logistic Corp;SLA violation with possible termination cause;1;;;230000;2;
-01.03.2023;max.mustermann@muster.com;01.03.2023;max.mustermann@muster.com;66ee7b76-95c0-4b35-a8db-c4108ea69c88;Walldorf Corp;SLA violation with possible termination cause;1;;;55125;3;
-01.04.2023;max.mustermann@muster.com;01.04.2023;max.mustermann@muster.com;ab700e9d-d6df-4389-ad63-1b6dfbca92d1;Leonard Corp;SLA violation with possible termination cause;1;;;200000;1;
-01.04.2023;max.mustermann@muster.com;01.04.2023;max.mustermann@muster.com;c379155b-60fd-4fbe-9546-dea1085eaa2d;Food Corp;SLA violation with possible termination cause;1;;;13000;4;
-01.04.2023;max.mustermann@muster.com;01.04.2023;max.mustermann@muster.com;7c31ae58-faa9-4d4e-8ffd-202d99f8cdaa;Logistic Corp;SLA violation with possible termination cause;1;;;230000;2;
-01.04.2023;max.mustermann@muster.com;01.04.2023;max.mustermann@muster.com;5a57f782-b717-480c-9a41-9a9a3acb43b0;Walldorf Corp;SLA violation with possible termination cause;1;;;55125;3;
-01.05.2023;max.mustermann@muster.com;01.05.2023;max.mustermann@muster.com;cb7d0ee5-301e-4c43-bb74-4ec154269316;Leonard Corp;SLA violation with possible termination cause;1;;;200000;1;
-01.05.2023;max.mustermann@muster.com;01.05.2023;max.mustermann@muster.com;23ff917e-ad96-40a4-b156-27b0c51310c8;Food Corp;SLA violation with possible termination cause;1;;;13000;4;
-01.05.2023;max.mustermann@muster.com;01.05.2023;max.mustermann@muster.com;867ad36d-4800-438a-855c-c5827d95d5b9;Logistic Corp;SLA violation with possible termination cause;1;;;230000;2;
-01.05.2023;max.mustermann@muster.com;01.05.2023;max.mustermann@muster.com;2c997e18-71d5-4f6f-a038-47183f4fa66f;Walldorf Corp;SLA violation with possible termination cause;1;;;55125;3;
+CREATEDAT;CREATEDBY;MODIFIEDAT;MODIFIEDBY;ID;TITLE;PRIO;DESCR;MITI_ID;IMPACTCALC;CRITICALITY;SUPPLIER_ID;PARTNERNAME
+2020-09-01;;2020-09-01;max.mustermann@muster.com;aa4ccfef-7505-4715-ba7d-dd4d61484f61;SLA violation with possible termination cause;2;;;0;;1;Leonard Corp
+2020-09-01;;2020-09-01;max.mustermann@muster.com;74d26b19-02f5-4eb9-93e4-0b2823f4c74d;SLA violation with possible termination cause;2;;;20834;;4;Food Corp
+2020-09-01;;2020-09-01;max.mustermann@muster.com;50d4d2eb-5e56-40b3-943a-7baf236d75a7;SLA violation with possible termination cause;2;;;0;;2;Logistic Corp
+2020-09-01;;2020-09-01;max.mustermann@muster.com;fedb6373-f984-4e53-bc15-aecacd608171;SLA violation with possible termination cause;2;;;311862;;3;Walldorf Corp
+2020-10-01;;2020-10-01;max.mustermann@muster.com;6c901134-61da-42aa-86ea-65f2848bf0ed;Shipment violating export control;1;;;0;;1;Leonard Corp
+2020-10-01;;2020-10-01;max.mustermann@muster.com;270ce4e3-a21a-4666-9ebf-d6aa130a942c;Shipment violating export control;1;;;20706;;4;Food Corp
+2020-10-01;;2020-10-01;max.mustermann@muster.com;159ee217-ddd5-4954-ada9-305816f0e189;Shipment violating export control;1;;;24682;;2;Logistic Corp
+2020-10-01;;2020-10-01;max.mustermann@muster.com;cedf54e3-acb6-4151-aaa9-65138409c6c3;Shipment violating export control;1;;;314554;;3;Walldorf Corp
+2020-11-01;;2020-11-01;max.mustermann@muster.com;8b37b0fb-b8bc-415e-b7b8-06a1e1f5d07b;Shipment violating export control;1;;;4927;;1;Leonard Corp
+2020-11-01;;2020-11-01;max.mustermann@muster.com;f7e9c0f2-c665-455b-9cae-4d54bae35793;Shipment violating export control;1;;;18216;;4;Food Corp
+2020-11-01;;2020-11-01;max.mustermann@muster.com;2203daeb-163f-466b-a16f-70739b3812df;Shipment violating export control;1;;;35678;;2;Logistic Corp
+2020-11-01;;2020-11-01;max.mustermann@muster.com;3cc220f9-b07c-41d2-bdff-617f9b03163c;Shipment violating export control;1;;;307178;;3;Walldorf Corp
+2020-12-01;;2020-12-01;max.mustermann@muster.com;a138c0e7-7235-4b04-bb94-b32751c455be;SLA violation with possible termination cause;3;;;3600;;1;Leonard Corp
+2020-12-01;;2020-12-01;max.mustermann@muster.com;b4bfe123-c7ef-4203-a1c3-22d043de09fd;SLA violation with possible termination cause;3;;;18265;;4;Food Corp
+2020-12-01;;2020-12-01;max.mustermann@muster.com;f2cde66f-7f1b-4055-9c41-27560081e6f8;SLA violation with possible termination cause;3;;;33301;;2;Logistic Corp
+2020-12-01;;2020-12-01;max.mustermann@muster.com;b2d82b42-7b4b-423a-9a3b-af7759ec2ab6;SLA violation with possible termination cause;3;;;301533;;3;Walldorf Corp
+2021-01-01;;2021-01-01;max.mustermann@muster.com;6c56c657-6222-49b4-9c56-8488202e4a64;SLA violation with possible termination cause;1;;;15498;;1;Leonard Corp
+2021-01-01;;2021-01-01;max.mustermann@muster.com;53ff29ca-dadb-47eb-95fc-ce674bc25493;SLA violation with possible termination cause;1;;;19735;;4;Food Corp
+2021-01-01;;2021-01-01;max.mustermann@muster.com;e541d2d8-bcf6-4f74-bed9-c25d54bb0d5b;SLA violation with possible termination cause;1;;;49821;;2;Logistic Corp
+2021-01-01;;2021-01-01;max.mustermann@muster.com;b440977c-e035-4bd5-b9bf-34b3179d28fb;SLA violation with possible termination cause;1;;;282595;;3;Walldorf Corp
+2021-02-01;;2021-02-01;max.mustermann@muster.com;04a27795-4881-4ceb-8d00-df33211e8542;CFR non-compliance;1;;;0;;1;Leonard Corp
+2021-02-01;;2021-02-01;max.mustermann@muster.com;512e296e-1fe1-498e-8c2f-687b869428a2;CFR non-compliance;1;;;17849;;4;Food Corp
+2021-02-01;;2021-02-01;max.mustermann@muster.com;6068e4e2-4d2f-432a-9a2f-24bb909b7179;CFR non-compliance;1;;;13103;;2;Logistic Corp
+2021-02-01;;2021-02-01;max.mustermann@muster.com;f9fa0149-faa5-4179-9bff-833c035dcc13;CFR non-compliance;1;;;261735;;3;Walldorf Corp
+2021-03-01;;2021-03-01;max.mustermann@muster.com;266eeb93-b8cd-456f-a92e-25c838acdb28;SLA violation with possible termination cause;1;;;535;;1;Leonard Corp
+2021-03-01;;2021-03-01;max.mustermann@muster.com;63e7e433-3abc-4117-ae18-0f76005ee3cb;SLA violation with possible termination cause;1;;;18012;;4;Food Corp
+2021-03-01;;2021-03-01;max.mustermann@muster.com;9b061e0f-cb78-42fa-a33e-3ecbc0642d02;SLA violation with possible termination cause;1;;;60456;;2;Logistic Corp
+2021-03-01;;2021-03-01;max.mustermann@muster.com;3acb049a-67c1-444a-915b-6d09326553a0;SLA violation with possible termination cause;1;;;232451;;3;Walldorf Corp
+2021-04-01;;2021-04-01;max.mustermann@muster.com;f4581da0-6694-4bfc-a6f0-7e769ec4af89;SLA violation with possible termination cause;3;;;17205;;1;Leonard Corp
+2021-04-01;;2021-04-01;max.mustermann@muster.com;6ff6621c-2e43-40e1-970d-ee2247fb92b0;SLA violation with possible termination cause;3;;;15595;;4;Food Corp
+2021-04-01;;2021-04-01;max.mustermann@muster.com;1675fb77-31dd-47df-86a1-d8eed40f40c0;SLA violation with possible termination cause;3;;;28019;;2;Logistic Corp
+2021-04-01;;2021-04-01;max.mustermann@muster.com;0454fa45-bc7e-46ed-b460-66ee1c04bb68;SLA violation with possible termination cause;3;;;219581;;3;Walldorf Corp
+2021-05-01;;2021-05-01;max.mustermann@muster.com;bfe770c2-dd4d-4bbd-898d-c5682203875d;Shipment violating export control;1;;;48918;;1;Leonard Corp
+2021-05-01;;2021-05-01;max.mustermann@muster.com;76d846c9-9c7c-460c-b9f6-cd01a02c21f8;Shipment violating export control;1;;;17179;;4;Food Corp
+2021-05-01;;2021-05-01;max.mustermann@muster.com;6ee9549d-3999-4ed4-9109-3172d9f42d3b;Shipment violating export control;1;;;45334;;2;Logistic Corp
+2021-05-01;;2021-05-01;max.mustermann@muster.com;9e083dc6-b684-4188-bfd4-4f0462be572b;Shipment violating export control;1;;;207253;;3;Walldorf Corp
+2021-06-01;;2021-06-01;max.mustermann@muster.com;bad9c82e-adb3-48e7-910c-dd68a1fa35c9;Shipment violating export control;2;;;44932;;1;Leonard Corp
+2021-06-01;;2021-06-01;max.mustermann@muster.com;3266e8d9-1e33-4d1a-8aae-50085883f12d;Shipment violating export control;2;;;15874;;4;Food Corp
+2021-06-01;;2021-06-01;max.mustermann@muster.com;6689ff07-0e47-4ec3-990a-abb93fcc4db3;Shipment violating export control;2;;;37211;;2;Logistic Corp
+2021-06-01;;2021-06-01;max.mustermann@muster.com;de63b1b3-73c3-4601-b247-5159320eae17;Shipment violating export control;2;;;207666;;3;Walldorf Corp
+2021-07-01;;2021-07-01;max.mustermann@muster.com;5797ec87-f605-4882-98ea-0ad7d0a4ea51;CFR non-compliance;1;;;990;;1;Leonard Corp
+2021-07-01;;2021-07-01;max.mustermann@muster.com;0b37d2f6-0a46-4962-9a05-d279d5e4a61c;CFR non-compliance;1;;;14740;;4;Food Corp
+2021-07-01;;2021-07-01;max.mustermann@muster.com;9e99c4a2-8877-40aa-a2a8-b0bba862e49b;CFR non-compliance;1;;;59943;;2;Logistic Corp
+2021-07-01;;2021-07-01;max.mustermann@muster.com;43ad0b13-268a-4a78-baf1-7db87df0f487;CFR non-compliance;1;;;211370;;3;Walldorf Corp
+2021-08-01;;2021-08-01;max.mustermann@muster.com;645c75f5-ce15-4087-8251-fafb3b45c0df;CFR non-compliance;3;;;23958;;1;Leonard Corp
+2021-08-01;;2021-08-01;max.mustermann@muster.com;167dd09c-1ca8-44f6-bc44-6ad799c2faae;CFR non-compliance;3;;;16072;;4;Food Corp
+2021-08-01;;2021-08-01;max.mustermann@muster.com;95d67c5a-0e78-4bcd-80a4-9d31808d85d4;CFR non-compliance;3;;;61480;;2;Logistic Corp
+2021-08-01;;2021-08-01;max.mustermann@muster.com;072084ac-d1af-4696-a15b-9d65d26a42a5;CFR non-compliance;3;;;217782;;3;Walldorf Corp
+2021-09-01;;2021-09-01;max.mustermann@muster.com;41cb70b5-8937-497c-9ddc-2db4173c555e;Shipment violating export control;2;;;41761;;1;Leonard Corp
+2021-09-01;;2021-09-01;max.mustermann@muster.com;f427496e-a97e-430a-9d42-eded9f0d2a6a;Shipment violating export control;2;;;15235;;4;Food Corp
+2021-09-01;;2021-09-01;max.mustermann@muster.com;c6220e2c-e82f-43e3-8a1f-b489057c5181;Shipment violating export control;2;;;84651;;2;Logistic Corp
+2021-09-01;;2021-09-01;max.mustermann@muster.com;67e9e635-7621-4b38-80ce-35f7a940de46;Shipment violating export control;2;;;228014;;3;Walldorf Corp
+2021-10-01;;2021-10-01;max.mustermann@muster.com;3695db39-332d-4561-8088-bc76ec7c80fa;SLA violation with possible termination cause;3;;;23133;;1;Leonard Corp
+2021-10-01;;2021-10-01;max.mustermann@muster.com;b534e856-a8c2-49e3-8f71-e49881f46e25;SLA violation with possible termination cause;3;;;14366;;4;Food Corp
+2021-10-01;;2021-10-01;max.mustermann@muster.com;da5d6940-11a5-4702-bfdd-e24aaa8f2b57;SLA violation with possible termination cause;3;;;105479;;2;Logistic Corp
+2021-10-01;;2021-10-01;max.mustermann@muster.com;a6185e0a-ac46-46c7-8aed-438dfc2dd453;SLA violation with possible termination cause;3;;;230823;;3;Walldorf Corp
+2021-11-01;;2021-11-01;max.mustermann@muster.com;c39b5ba4-8485-4080-9082-a7812ebc172c;CFR non-compliance;3;;;83241;;1;Leonard Corp
+2021-11-01;;2021-11-01;max.mustermann@muster.com;04f13a22-fae1-43bf-82f6-fc6730da0424;CFR non-compliance;3;;;12676;;4;Food Corp
+2021-11-01;;2021-11-01;max.mustermann@muster.com;fae5be92-d533-4b76-8a77-f00a3e92b6bf;CFR non-compliance;3;;;108423;;2;Logistic Corp
+2021-11-01;;2021-11-01;max.mustermann@muster.com;0d5f40d6-441a-4bff-9cdb-52963e628a7d;CFR non-compliance;3;;;223125;;3;Walldorf Corp
+2021-12-01;;2021-12-01;max.mustermann@muster.com;7a534cf5-a3f6-42d7-85f0-c74c81e39d1c;SLA violation with possible termination cause;3;;;84081;;1;Leonard Corp
+2021-12-01;;2021-12-01;max.mustermann@muster.com;a9e4c6c8-58b3-4113-8007-f964216d656e;SLA violation with possible termination cause;3;;;11796;;4;Food Corp
+2021-12-01;;2021-12-01;max.mustermann@muster.com;7bf6f1ef-56f8-4c8a-8941-cfb15df6e4a5;SLA violation with possible termination cause;3;;;104205;;2;Logistic Corp
+2021-12-01;;2021-12-01;max.mustermann@muster.com;3e99b8e8-13aa-45f7-8913-54526ee6a3cc;SLA violation with possible termination cause;3;;;212410;;3;Walldorf Corp
+2022-01-01;;2022-01-01;max.mustermann@muster.com;4684ec5f-949c-4303-a194-0d59e5ac6465;SLA violation with possible termination cause;1;;;87394;;1;Leonard Corp
+2022-01-01;;2022-01-01;max.mustermann@muster.com;c92674c2-60b8-4591-80e4-6f3d3de5778a;SLA violation with possible termination cause;1;;;13789;;4;Food Corp
+2022-01-01;;2022-01-01;max.mustermann@muster.com;7d92a007-7d49-4d2c-b188-fa761da2c14f;SLA violation with possible termination cause;1;;;86340;;2;Logistic Corp
+2022-01-01;;2022-01-01;max.mustermann@muster.com;a1fb4b0a-c9a0-4f84-9612-a6ff8317738b;SLA violation with possible termination cause;1;;;192710;;3;Walldorf Corp
+2022-02-01;;2022-02-01;max.mustermann@muster.com;52825ed1-66a5-464f-b7f8-4b19d250a849;SLA violation with possible termination cause;2;;;38035;;1;Leonard Corp
+2022-02-01;;2022-02-01;max.mustermann@muster.com;25d02549-b28a-4253-86d0-8185052b2b6e;SLA violation with possible termination cause;2;;;13474;;4;Food Corp
+2022-02-01;;2022-02-01;max.mustermann@muster.com;b7bb7b69-8172-44fe-b8c8-6b10ae3b2ad1;SLA violation with possible termination cause;2;;;119907;;2;Logistic Corp
+2022-02-01;;2022-02-01;max.mustermann@muster.com;9bf4d5f3-8a09-45a2-9fbb-3c969e1fa122;SLA violation with possible termination cause;2;;;170863;;3;Walldorf Corp
+2022-03-01;;2022-03-01;max.mustermann@muster.com;7888e8ae-ed75-4be3-a19e-ed5b019328be;SLA violation with possible termination cause;2;;;46961;;1;Leonard Corp
+2022-03-01;;2022-03-01;max.mustermann@muster.com;62452e8d-96ab-4180-bf5d-1d311494ed6b;SLA violation with possible termination cause;2;;;11145;;4;Food Corp
+2022-03-01;;2022-03-01;max.mustermann@muster.com;26363ed3-76b9-46c1-8a11-44784db38600;SLA violation with possible termination cause;2;;;114167;;2;Logistic Corp
+2022-03-01;;2022-03-01;max.mustermann@muster.com;5fa660f2-6dd7-451d-bbc0-ca6acb058a2f;SLA violation with possible termination cause;2;;;147776;;3;Walldorf Corp
+2022-04-01;;2022-04-01;max.mustermann@muster.com;91fba37d-1da2-4c1c-b759-240a14d9ce15;CFR non-compliance;2;;;92558;;1;Leonard Corp
+2022-04-01;;2022-04-01;max.mustermann@muster.com;9b25e059-b8c1-447d-ab17-3b6bc9eda3b7;CFR non-compliance;2;;;11922;;4;Food Corp
+2022-04-01;;2022-04-01;max.mustermann@muster.com;bca55f16-0793-45b6-b873-516aa7f4319f;CFR non-compliance;2;;;98817;;2;Logistic Corp
+2022-04-01;;2022-04-01;max.mustermann@muster.com;85d64461-cae5-4968-a1c3-33e9e7fbfd8c;CFR non-compliance;2;;;136099;;3;Walldorf Corp
+2022-05-01;;2022-05-01;max.mustermann@muster.com;884cb642-2253-4e83-8df5-59288c782d92;Shipment violating export control;1;;;52165;;1;Leonard Corp
+2022-05-01;;2022-05-01;max.mustermann@muster.com;feb18628-63a6-482d-8160-e649064c1d6a;Shipment violating export control;1;;;10998;;4;Food Corp
+2022-05-01;;2022-05-01;max.mustermann@muster.com;87460f8e-c902-495b-a161-f551316c1492;Shipment violating export control;1;;;130096;;2;Logistic Corp
+2022-05-01;;2022-05-01;max.mustermann@muster.com;feb85931-c556-46c8-8d87-5929d8b55178;Shipment violating export control;1;;;119595;;3;Walldorf Corp
+2022-06-01;;2022-06-01;max.mustermann@muster.com;1d24ec7e-e9d7-44a6-b94a-a0694161c04b;Shipment violating export control;2;;;83360;;1;Leonard Corp
+2022-06-01;;2022-06-01;max.mustermann@muster.com;1cde3c39-d0f0-4ff0-8dd2-40159b03bac8;Shipment violating export control;2;;;10242;;4;Food Corp
+2022-06-01;;2022-06-01;max.mustermann@muster.com;12634907-a8d6-4f32-8c36-2645a33d85d9;Shipment violating export control;2;;;116830;;2;Logistic Corp
+2022-06-01;;2022-06-01;max.mustermann@muster.com;20b87107-a371-4f66-856d-f68750f12acc;Shipment violating export control;2;;;123054;;3;Walldorf Corp
+2022-07-01;;2022-07-01;max.mustermann@muster.com;e35bd474-dc9c-4bd3-b10c-4816deed6fb1;CFR non-compliance;1;;;82082;;1;Leonard Corp
+2022-07-01;;2022-07-01;max.mustermann@muster.com;fff8b2a4-d544-43cb-bef0-cfd780f752e2;CFR non-compliance;1;;;8481;;4;Food Corp
+2022-07-01;;2022-07-01;max.mustermann@muster.com;8096d649-5b3b-4a96-a7cf-a19037d11e25;CFR non-compliance;1;;;155776;;2;Logistic Corp
+2022-07-01;;2022-07-01;max.mustermann@muster.com;edf57c29-fe38-4e8a-9006-441e340f6d49;CFR non-compliance;1;;;124348;;3;Walldorf Corp
+2022-08-01;;2022-08-01;max.mustermann@muster.com;339eb5bf-6804-4744-ae48-7b7015e74518;CFR non-compliance;3;;;64750;;1;Leonard Corp
+2022-08-01;;2022-08-01;max.mustermann@muster.com;9a5eb843-f818-43bb-b7d1-8b26fedf9eb7;CFR non-compliance;3;;;7785;;4;Food Corp
+2022-08-01;;2022-08-01;max.mustermann@muster.com;6cf91d68-fc39-4ed7-9aed-aa60b4775821;CFR non-compliance;3;;;121699;;2;Logistic Corp
+2022-08-01;;2022-08-01;max.mustermann@muster.com;6284acd3-39e8-4118-929e-68ebbdd4aecc;CFR non-compliance;3;;;130730;;3;Walldorf Corp
+2022-09-01;;2022-09-01;max.mustermann@muster.com;c4759c46-01f6-43c4-9df5-1cb6d3129f02;CFR non-compliance;1;;;120296;;1;Leonard Corp
+2022-09-01;;2022-09-01;max.mustermann@muster.com;962c8295-d228-4422-9eab-37f767bafd19;CFR non-compliance;1;;;7717;;4;Food Corp
+2022-09-01;;2022-09-01;max.mustermann@muster.com;7fd336f0-25fc-49ab-b0ce-b8ffa8241fa9;CFR non-compliance;1;;;166856;;2;Logistic Corp
+2022-09-01;;2022-09-01;max.mustermann@muster.com;b853185e-524c-40a2-a832-48cde3ff04c0;CFR non-compliance;1;;;137534;;3;Walldorf Corp
+2022-10-01;;2022-10-01;max.mustermann@muster.com;8d11b315-252f-497d-ac35-0c5d36766051;CFR non-compliance;1;;;86856;;1;Leonard Corp
+2022-10-01;;2022-10-01;max.mustermann@muster.com;be0615c6-03cc-4b93-a51f-07c9a7bccb0b;CFR non-compliance;1;;;7669;;4;Food Corp
+2022-10-01;;2022-10-01;max.mustermann@muster.com;d974936b-3ef2-4ca1-b9bf-d493ef3ec290;CFR non-compliance;1;;;158780;;2;Logistic Corp
+2022-10-01;;2022-10-01;max.mustermann@muster.com;03d47ccf-bbbe-47f1-820d-929f9ac74eff;CFR non-compliance;1;;;146545;;3;Walldorf Corp
+2022-11-01;;2022-11-01;max.mustermann@muster.com;ead7492f-425d-486e-91f9-c96226094fef;CFR non-compliance;1;;;81671;;1;Leonard Corp
+2022-11-01;;2022-11-01;max.mustermann@muster.com;63556291-d894-4161-8a2e-b3bb1725cadc;CFR non-compliance;1;;;8517;;4;Food Corp
+2022-11-01;;2022-11-01;max.mustermann@muster.com;43b593d1-a64d-49c4-a5b5-4a43e21c81e6;CFR non-compliance;1;;;179551;;2;Logistic Corp
+2022-11-01;;2022-11-01;max.mustermann@muster.com;790710f9-1354-4320-ba73-a7d3e6c7535f;CFR non-compliance;1;;;144517;;3;Walldorf Corp
+2022-12-01;;2022-12-01;max.mustermann@muster.com;d9f64a64-3154-44eb-a237-a835f1a297d4;CFR non-compliance;1;;;119444;;1;Leonard Corp
+2022-12-01;;2022-12-01;max.mustermann@muster.com;68cfdeab-57f0-4f66-80e7-2b0b1cd7e289;CFR non-compliance;1;;;8368;;4;Food Corp
+2022-12-01;;2022-12-01;max.mustermann@muster.com;c4455e08-2c69-44d9-9c84-343f10ef75ef;CFR non-compliance;1;;;188175;;2;Logistic Corp
+2022-12-01;;2022-12-01;max.mustermann@muster.com;d3e7e1f9-1310-46ed-8e97-d7bcc2d72efa;CFR non-compliance;1;;;128310;;3;Walldorf Corp
+2023-01-01;;2023-01-01;max.mustermann@muster.com;30f74db0-f03e-46da-a952-c22e54fccc22;CFR non-compliance;1;;;115093;;1;Leonard Corp
+2023-01-01;;2023-01-01;max.mustermann@muster.com;bdb5ed7b-cb01-4977-8669-306ac6106f67;CFR non-compliance;1;;;7088;;4;Food Corp
+2023-01-01;;2023-01-01;max.mustermann@muster.com;b31ef9c5-22e8-43e2-81f2-d71d2909fe5b;CFR non-compliance;1;;;180619;;2;Logistic Corp
+2023-01-01;;2023-01-01;max.mustermann@muster.com;ef37baf7-bcd9-4041-b652-c8ca78c72d5d;CFR non-compliance;1;;;111672;;3;Walldorf Corp
+2023-02-01;;2023-02-01;max.mustermann@muster.com;7efe01d7-263f-494c-b5c1-b2f16a1496d7;SLA violation with possible termination cause;3;;;111215;;1;Leonard Corp
+2023-02-01;;2023-02-01;max.mustermann@muster.com;0490447c-2b9d-4b0a-969a-48df5a22f63a;SLA violation with possible termination cause;3;;;5601;;4;Food Corp
+2023-02-01;;2023-02-01;max.mustermann@muster.com;67b73c1b-c39b-4cf6-8fec-a37c967b29f8;SLA violation with possible termination cause;3;;;168611;;2;Logistic Corp
+2023-02-01;;2023-02-01;max.mustermann@muster.com;13a84f48-b4cc-4f2d-9e20-52c8f16d1b06;SLA violation with possible termination cause;3;;;86757;;3;Walldorf Corp
+2023-03-01;;2023-03-01;max.mustermann@muster.com;763b45fe-582a-44d3-a20c-a784ecdab466;SLA violation with possible termination cause;1;;;137893;;1;Leonard Corp
+2023-03-01;;2023-03-01;max.mustermann@muster.com;e4099c4c-661d-4bac-835a-5e5eaa57560a;SLA violation with possible termination cause;1;;;5881;;4;Food Corp
+2023-03-01;;2023-03-01;max.mustermann@muster.com;b694532d-e49d-4933-8e88-6fee6c90b2c1;SLA violation with possible termination cause;1;;;171242;;2;Logistic Corp
+2023-03-01;;2023-03-01;max.mustermann@muster.com;1b34c107-3357-4459-9feb-3e17b3ed8e5d;SLA violation with possible termination cause;1;;;68161;;3;Walldorf Corp
+2023-04-01;;2023-04-01;max.mustermann@muster.com;aee30283-8821-4b72-aa29-c54718e8cfbc;SLA violation with possible termination cause;1;;;120880;;1;Leonard Corp
+2023-04-01;;2023-04-01;max.mustermann@muster.com;f07c974c-89d4-4551-a632-d17935e85105;SLA violation with possible termination cause;1;;;5157;;4;Food Corp
+2023-04-01;;2023-04-01;max.mustermann@muster.com;03e93a1e-04ba-458e-914d-7a5a8e9dc218;SLA violation with possible termination cause;1;;;197823;;2;Logistic Corp
+2023-04-01;;2023-04-01;max.mustermann@muster.com;a37f5b5f-b5ab-4a4d-9e20-5e8de70c1b53;SLA violation with possible termination cause;1;;;54452;;3;Walldorf Corp
+2023-05-01;;2023-05-01;max.mustermann@muster.com;e4c3f301-1c17-48f0-8a3f-229293dda6b7;SLA violation with possible termination cause;1;;;79697;;1;Leonard Corp
+2023-05-01;;2023-05-01;max.mustermann@muster.com;e5e3352c-dc08-45d0-bfd8-b29152859120;SLA violation with possible termination cause;1;;;4704;;4;Food Corp
+2023-05-01;;2023-05-01;max.mustermann@muster.com;c32dccd8-ca13-4beb-bbb9-cc94f54eef17;SLA violation with possible termination cause;1;;;186585;;2;Logistic Corp
+2023-05-01;;2023-05-01;max.mustermann@muster.com;a99e2f7a-2cac-4ae9-9e3b-ed8e3b3ed0d3;SLA violation with possible termination cause;1;;;39598;;3;Walldorf Corp
+2023-06-01;;2023-06-01;max.mustermann@muster.com;f82d8ab5-051d-46b8-a7ee-96c3ccbfdb2b;SLA violation with possible termination cause;1;;;87573;;1;Leonard Corp
+2023-06-01;;2023-06-01;max.mustermann@muster.com;1db6a702-4299-4b89-97b7-32c5b6b6acd0;SLA violation with possible termination cause;1;;;2833;;4;Food Corp
+2023-06-01;;2023-06-01;max.mustermann@muster.com;90bcde12-a0b7-485d-8c6e-9295982d3345;SLA violation with possible termination cause;1;;;216376;;2;Logistic Corp
+2023-06-01;;2023-06-01;max.mustermann@muster.com;774e7b3a-1cc7-47e9-a7a7-b2f2d7c2c2d1;SLA violation with possible termination cause;1;;;34647;;3;Walldorf Corp
+2023-07-01;;2023-07-01;max.mustermann@muster.com;8f5da3af-429b-42ba-af97-3b30750bd309;SLA violation with possible termination cause;1;;;72423;;1;Leonard Corp
+2023-07-01;;2023-07-01;max.mustermann@muster.com;868073b6-4adc-4ce3-ad98-f6403eba57bc;SLA violation with possible termination cause;1;;;2364;;4;Food Corp
+2023-07-01;;2023-07-01;max.mustermann@muster.com;795aa48c-eec5-47d6-aef3-dfed23dc0c18;SLA violation with possible termination cause;1;;;223723;;2;Logistic Corp
+2023-07-01;;2023-07-01;max.mustermann@muster.com;783a8e6f-a7e9-4041-b652-c8ca78c72d5d;SLA violation with possible termination cause;1;;;37627;;3;Walldorf Corp
+2023-08-01;;2023-08-01;max.mustermann@muster.com;537801de-b5f5-42eb-9594-991b0a7da71c;SLA violation with possible termination cause;1;;;116336;;1;Leonard Corp
+2023-08-01;;2023-08-01;max.mustermann@muster.com;a40b7944-e068-4d03-8316-cd71d152629c;SLA violation with possible termination cause;1;;;4104;;4;Food Corp
+2023-08-01;;2023-08-01;max.mustermann@muster.com;d8047629-6fd2-4f5c-bfce-8918e66a907c;SLA violation with possible termination cause;1;;;204527;;2;Logistic Corp
+2023-08-01;;2023-08-01;max.mustermann@muster.com;acf7e1b3-3357-4459-9feb-3e17b3ed8e5d;SLA violation with possible termination cause;1;;;51850;;3;Walldorf Corp
+2023-09-01;;2023-09-01;max.mustermann@muster.com;f80fc7a7-6a9e-42a2-9919-bcf5568c39fc;SLA violation with possible termination cause;1;;;99792;;1;Leonard Corp
+2023-09-01;;2023-09-01;max.mustermann@muster.com;8a5ed4ed-5194-489a-a4a2-92331dee22e5;SLA violation with possible termination cause;1;;;1661;;4;Food Corp
+2023-09-01;;2023-09-01;max.mustermann@muster.com;ec14b8f2-3471-4824-b8e1-b40def73b70e;SLA violation with possible termination cause;1;;;231989;;2;Logistic Corp
+2023-09-01;;2023-09-01;max.mustermann@muster.com;ae2f7a77-2cac-4ae9-9e3b-ed8e3b3ed0d3;SLA violation with possible termination cause;1;;;59563;;3;Walldorf Corp
+2023-10-01;;2023-10-01;max.mustermann@muster.com;84387519-5710-402b-9316-080e5117bd88;SLA violation with possible termination cause;1;;;96854;;1;Leonard Corp
+2023-10-01;;2023-10-01;max.mustermann@muster.com;e59d0bb8-d912-4ffa-b490-9dab37b4e65d;SLA violation with possible termination cause;1;;;3064;;4;Food Corp
+2023-10-01;;2023-10-01;max.mustermann@muster.com;e7d8d049-b479-47c2-b409-0108ac46c574;SLA violation with possible termination cause;1;;;217194;;2;Logistic Corp
+2023-10-01;;2023-10-01;max.mustermann@muster.com;cdd6a2b1-7b3a-4e8f-b2e0-25c9b0860c94;SLA violation with possible termination cause;1;;;58512;;3;Walldorf Corp
+2023-11-01;;2023-11-01;max.mustermann@muster.com;93317e23-225a-4325-8217-ba8e8472f6d0;SLA violation with possible termination cause;1;;;100000;;1;Leonard Corp
+2023-11-01;;2023-11-01;max.mustermann@muster.com;808f27cd-e90d-48ea-a908-ec08a20eb718;SLA violation with possible termination cause;1;;;2600;;4;Food Corp
+2023-11-01;;2023-11-01;max.mustermann@muster.com;632dc4e4-abb5-475c-9b27-9c40922469a9;SLA violation with possible termination cause;1;;;230000;;2;Logistic Corp
+2023-11-01;;2023-11-01;max.mustermann@muster.com;66ee7b76-95c0-4b35-a8db-c4108ea69c88;SLA violation with possible termination cause;1;;;55125;;3;Walldorf Corp
+2023-12-01;;2023-12-01;max.mustermann@muster.com;ab700e9d-d6df-4389-ad63-1b6dfbca92d1;SLA violation with possible termination cause;1;;;100000;;1;Leonard Corp
+2023-12-01;;2023-12-01;max.mustermann@muster.com;c379155b-60fd-4fbe-9546-dea1085eaa2d;SLA violation with possible termination cause;1;;;2600;;4;Food Corp
+2023-12-01;;2023-12-01;max.mustermann@muster.com;7c31ae58-faa9-4d4e-8ffd-202d99f8cdaa;SLA violation with possible termination cause;1;;;230000;;2;Logistic Corp
+2023-12-01;;2023-12-01;max.mustermann@muster.com;5a57f782-b717-480c-9a41-9a9a3acb43b0;SLA violation with possible termination cause;1;;;55125;;3;Walldorf Corp
+2024-01-01;;2024-01-01;max.mustermann@muster.com;cb7d0ee5-301e-4c43-bb74-4ec154269316;SLA violation with possible termination cause;1;;;100000;;1;Leonard Corp
+2024-01-01;;2024-01-01;max.mustermann@muster.com;23ff917e-ad96-40a4-b156-27b0c51310c8;SLA violation with possible termination cause;1;;;2600;;4;Food Corp
+2024-01-01;;2024-01-01;max.mustermann@muster.com;867ad36d-4800-438a-855c-c5827d95d5b9;SLA violation with possible termination cause;1;;;230000;;2;Logistic Corp
+2024-01-01;;2024-01-01;max.mustermann@muster.com;2c997e18-71d5-4f6f-a038-47183f4fa66f;SLA violation with possible termination cause;1;;;55125;;3;Walldorf Corp
