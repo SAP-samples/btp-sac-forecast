@@ -1,4 +1,4 @@
-CREATEDAT;CREATEDBY;MODIFIEDAT;MODIFIEDBY;ID;TITLE;PRIO;DESCR;MITI_ID;IMPACTCALC;CRITICALITY;SUPPLIER_ID;PARTNERNAME
+CREATEDAT;CREATEDBY;MODIFIEDAT;MODIFIEDBY;ID;TITLE;PRIO;DESCR;MITI_ID;IMPACT;CRITICALITY;SUPPLIER_ID;PARTNERNAME
 2020-09-01;;2020-09-01;max.mustermann@muster.com;aa4ccfef-7505-4715-ba7d-dd4d61484f61;SLA violation with possible termination cause;2;;;0;;1;Leonard Corp
 2020-09-01;;2020-09-01;max.mustermann@muster.com;74d26b19-02f5-4eb9-93e4-0b2823f4c74d;SLA violation with possible termination cause;2;;;20834;;4;Food Corp
 2020-09-01;;2020-09-01;max.mustermann@muster.com;50d4d2eb-5e56-40b3-943a-7baf236d75a7;SLA violation with possible termination cause;2;;;0;;2;Logistic Corp
