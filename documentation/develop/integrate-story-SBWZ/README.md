@@ -18,7 +18,7 @@ In this section, you will integrate the story URL in SAP Build Work Zone, standa
 
 ## 2. Create New App for the Story 
 
-1. In SAP BTP cockpit, choose **Servces** &rarr; **Instances and Subscriptions**. 
+1. In SAP BTP cockpit, choose **Services** &rarr; **Instances and Subscriptions**. 
 2. From the **Subscriptions** list, select **SAP Build Work Zone** and choose **Go to Application**.
 3. Choose **Content Manager**, then choose **+ New** &rarr; **App**.
 
