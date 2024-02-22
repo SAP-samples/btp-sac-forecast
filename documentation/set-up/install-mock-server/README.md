@@ -156,7 +156,7 @@ If the deployment is successful, you will see the following log:
 
       * **Name** = *[Some destination name depending on your mission]*, in our scenario we will choose Name = cpapp-bupa
       * **Type** = HTTP
-      * **URL** = *[URL for your OData entities]* e.g. <The application route of the mock server\>/v2/op-api-business-partner-srv/
+      * **URL** = *[URL for your OData entities]* e.g. <The application route of the mock server\>/odata/v2/op-api-business-partner-srv/
       * **Proxy Type** = Internet
       * **Authentication** = NoAuthentication
 
